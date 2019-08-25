@@ -1,0 +1,40 @@
+# news
+DOMAIN-SUFFIX,chinainperspective.com
+DOMAIN-SUFFIX,foxnews.com
+DOMAIN-SUFFIX,hk01.com
+DOMAIN-SUFFIX,mychinanews.com
+DOMAIN-SUFFIX,ntdtv.com
+DOMAIN-SUFFIX,voanews.com
+DOMAIN-SUFFIX,zerohedge.com
+## appledaily
+DOMAIN-SUFFIX,appledaily.com
+DOMAIN-SUFFIX,appledaily.com.hk
+DOMAIN-SUFFIX,appledaily.com.tw
+## bbc
+DOMAIN-SUFFIX,bbc.co.uk
+DOMAIN-SUFFIX,bbc.com
+DOMAIN-SUFFIX,bbc.in
+DOMAIN-SUFFIX,bbcchinese.com
+DOMAIN-SUFFIX,bbci.co.uk
+## sankei
+DOMAIN-SUFFIX,sankei.com
+## dw
+DOMAIN-SUFFIX,dw.com
+## reuters
+DOMAIN-SUFFIX,reuters.com
+## epochtimes
+DOMAIN-SUFFIX,epochtimes.com
+DOMAIN-SUFFIX,epochtimes.com.tw
+## ettoday
+DOMAIN-SUFFIX,ettoday.net
+## new york times
+DOMAIN-SUFFIX,nyt.com
+DOMAIN-SUFFIX,nytimes.com
+DOMAIN-SUFFIX,nytstyle.com
+## initium
+DOMAIN-SUFFIX,theinitium.com
+## the wall street journal
+DOMAIN-SUFFIX,wsj.com
+DOMAIN-SUFFIX,wsj.net
+# washington post
+DOMAIN-SUFFIX,washingtonpost.com

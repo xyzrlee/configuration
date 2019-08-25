@@ -1,0 +1,153 @@
+# REJECT Start
+// Tracking-Protection
+DOMAIN-SUFFIX,adjust.com
+DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-SUFFIX,cnzz.com
+DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,growingio.com
+DOMAIN-SUFFIX,inmobi.cn
+DOMAIN-SUFFIX,inmobi.com
+DOMAIN-SUFFIX,lnk0.com
+DOMAIN-SUFFIX,serving-sys.com
+DOMAIN-SUFFIX,umeng.com,DIRECT
+DOMAIN-SUFFIX,umengcloud.com,DIRECT
+DOMAIN,cdn.segment.com
+DOMAIN,js.users.51.la
+DOMAIN,static.jpush.cn
+// Advertisement-Protection
+DOMAIN-SUFFIX,adinall.com
+DOMAIN-SUFFIX,admaster.com.cn
+DOMAIN-SUFFIX,adview.cn
+DOMAIN-SUFFIX,aerserv.com
+DOMAIN-SUFFIX,cocounion.com
+DOMAIN-SUFFIX,ctrmi.com
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,googleadservices.com
+DOMAIN-SUFFIX,googleadsserving.cn
+DOMAIN-SUFFIX,googlesyndication.com
+DOMAIN-SUFFIX,irs01.com
+DOMAIN-SUFFIX,kejet.net
+DOMAIN-SUFFIX,miaozhen.com
+DOMAIN-SUFFIX,moatads.com
+DOMAIN-SUFFIX,mopub.com
+DOMAIN-SUFFIX,qchannel01.cn
+DOMAIN-SUFFIX,tanx.com
+DOMAIN-SUFFIX,tuanxue360.net
+DOMAIN,ad-cn.jovcloud.com
+DOMAIN,ad.12306.cn
+DOMAIN,ad.jiemian.com
+DOMAIN,adplatform.vrtcal.com
+DOMAIN,ads-twitter.com
+DOMAIN,ads.nexage.com
+DOMAIN,ads.simplepath.com
+DOMAIN,adshow.58.com
+DOMAIN,adshows.21cn.com
+DOMAIN,adxserver.ad.cmvideo.cn
+DOMAIN,ggs.myzaker.com
+DOMAIN,sugar.zhihu.com
+// Baidu
+DOMAIN-SUFFIX,baidustatic.com
+DOMAIN,hm.baidu.com
+DOMAIN,hmma.baidu.com
+DOMAIN,mobads-logs.baidu.com
+DOMAIN,mobads.baidu.com
+DOMAIN,unionsug.baidu.com
+DOMAIN,wn.pos.baidu.com
+// -Baidu_high-acc-ip
+DOMAIN,newloc.map.n.shifen.com
+DOMAIN,newvector.map.baidu.com
+DOMAIN,offnavi.map.baidu.com
+DOMAIN,ps.map.baidu.com
+DOMAIN,sv.map.baidu.com
+DOMAIN,ulog.imap.baidu.com
+// Ali
+DOMAIN,adash-c.ut.taobao.com
+DOMAIN,adash.man.aliyuncs.com
+DOMAIN,adashbc.ut.taobao.com
+DOMAIN,adashxgc.ut.taobao.com
+DOMAIN,amdc.m.taobao.com
+DOMAIN,apoll.m.taobao.com
+// Tencent
+DOMAIN,mi.gdt.qq.com
+DOMAIN,pingma.qq.com
+// -TencentVideo
+DOMAIN,mtrace.qq.com
+// 163
+DOMAIN-SUFFIX,analytics.126.net
+DOMAIN,iadmat.nosdn.127.net
+DOMAIN,static.ws.126.net
+// AutoNavi
+DOMAIN,nbsdk-baichuan.alicdn.com
+// iQiyi
+DOMAIN-SUFFIX,ad.m.iqiyi.com,no-resolve
+DOMAIN-SUFFIX,afp.iqiyi.com,no-resolve
+DOMAIN-SUFFIX,api.cupid.iqiyi.com,no-resolve
+DOMAIN-SUFFIX,c.uaa.iqiyi.com,no-resolve
+DOMAIN-SUFFIX,cloudpush.iqiyi.com,no-resolve
+DOMAIN-SUFFIX,cm.passport.iqiyi.com,no-resolve
+DOMAIN-SUFFIX,emoticon.sns.iqiyi.com,no-resolve
+DOMAIN-SUFFIX,gamecenter.iqiyi.com,no-resolve
+DOMAIN-SUFFIX,hotchat-im.iqiyi.com,no-resolve
+DOMAIN-SUFFIX,ifacelog.iqiyi.com,no-resolve
+DOMAIN-SUFFIX,mbdlog.iqiyi.com,no-resolve
+DOMAIN-SUFFIX,meta.video.qiyi.com,no-resolve
+DOMAIN-SUFFIX,paopao.iqiyi.com,no-resolve
+DOMAIN-SUFFIX,policy.video.iqiyi.com,no-resolve
+DOMAIN-SUFFIX,rcd.iqiyi.com,no-resolve
+DOMAIN-SUFFIX,cmts.iqiyi.com,no-resolve
+DOMAIN-SUFFIX,data.video.qiyi.com,no-resolve
+DOMAIN-SUFFIX,msg.71.am,no-resolve
+DOMAIN-SUFFIX,msga.cupid.iqiyi.com,no-resolve
+// Youku
+DOMAIN-SUFFIX,atm.youku.com
+DOMAIN,ad.mobile.youku.com
+DOMAIN,iyes.youku.com
+// Sohu
+DOMAIN-SUFFIX,ads.sohu.com
+// -SohuVideo
+DOMAIN-SUFFIX,aty.sohu.com
+DOMAIN,imp.optaim.com
+DOMAIN,v2.reachmax.cn
+DOMAIN,data.vod.itc.cn
+// Hunan_TV
+DOMAIN-SUFFIX,da.mgtv.com
+DOMAIN-SUFFIX,da.hunantv.com
+DOMAIN-SUFFIX,log.hunantv.com
+DOMAIN,log.v2.hunantv.com
+DOMAIN,v2.log.hunantv.com
+// PPTV
+DOMAIN,asimgs.pplive.cn
+// Le
+DOMAIN-SUFFIX,webp2p.letv.com
+DOMAIN,ark.letv.com
+DOMAIN,g3.letv.com
+DOMAIN,n.mark.letv.com
+// XiMaLaYa
+DOMAIN,ad.ximalaya.com
+DOMAIN,adse.ximalaya.com
+// Moji
+DOMAIN,ad.api.moji.com
+DOMAIN,v1.log.moji.com
+// Kugou and Kuwo
+DOMAIN,adserviceretry.kugou.com
+DOMAIN,ads.service.kugou.com
+DOMAIN,adsfile.bssdlbig.kugou.com
+DOMAIN,log.stat.kugou.com
+DOMAIN,log.web.kugou.com
+DOMAIN,kgmobilestat.kugou.com
+DOMAIN,kgmobilestatbak.kugou.com
+DOMAIN,mobilelog.kugou.com
+DOMAIN,mobilead.kuwo.cn
+DOMAIN,rich.kuwo.cn
+// Internet Service Provider Hijack
+DOMAIN-SUFFIX,cszlks.com
+DOMAIN-SUFFIX,freedrive.cn
+DOMAIN-SUFFIX,fkku194.com
+DOMAIN-SUFFIX,mlnbike.com
+DOMAIN-SUFFIX,quanliyouxi.cn
+DOMAIN-SUFFIX,feih.com.cn
+// Blacklist
+DOMAIN-SUFFIX,coinhive.com
+DOMAIN-SUFFIX,makeding.com
+DOMAIN-SUFFIX,mairuan.com
+# REJECT End
