@@ -11,6 +11,7 @@ script:
     - script/surge-ad.sh
     - script/dnscrypt-proxy-forwarding.sh
     - script/privoxy-gfwlist.sh
+    - script/chinadns-chnroute.sh
 
 deploy:
     provider: pages
