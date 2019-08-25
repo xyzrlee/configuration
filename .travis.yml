@@ -1,0 +1,22 @@
+language: minimal
+
+install:
+    - sudo apt-get update
+    - sudo apt-get install python python-pip -y
+    - sudo pip install gfwlist2privoxy
+
+script:
+    - chmod +x script/*.sh
+    - script/surge-ad.sh
+    - script/dnscrypt-proxy-forwarding.sh
+    - script/privoxy-gfwlist.sh
+
+deploy:
+    provider: pages
+    skip-cleanup: true
+    target-branch: gh-pages
+    github-token: $GITHUB_TOKEN
+    keep-history: true
+    verbose: true
+    on:
+        branch: master
