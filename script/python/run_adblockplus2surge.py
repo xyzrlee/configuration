@@ -1,6 +1,7 @@
-from adblockplus2surge import AdblockPlus2Surge
 import getopt
 import sys
+
+from adblockplus2surge import AdblockPlus2Surge
 
 
 def main(argv) -> None:

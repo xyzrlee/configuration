@@ -1,13 +1,12 @@
+import contextlib
 import os
+import re
+import sys
 import typing
 
 import requests
-import validators
-import sys
-import contextlib
-import re
 import sortedcontainers
-import http
+import validators
 
 
 class AdblockPlus2Surge(object):
