@@ -2,7 +2,7 @@ language: minimal
 
 install:
     - sudo apt-get update
-    - sudo apt-get install python python-pip -y
+    - sudo apt-get install python python-pip python3-venv -y
     - sudo pip install gfwlist2privoxy
 
 script:
