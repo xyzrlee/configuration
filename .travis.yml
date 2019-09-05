@@ -4,6 +4,7 @@ install:
     - sudo apt-get update
     - sudo apt-get install python python-pip python3-venv -y
     - sudo pip install gfwlist2privoxy
+    - python -V
 
 script:
     - chmod +x script/*.sh
