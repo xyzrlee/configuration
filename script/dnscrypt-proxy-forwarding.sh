@@ -2,6 +2,8 @@
 
 ### use script from https://github.com/felixonmars/dnsmasq-china-list
 
+set -e
+
 script_path=$(cd `dirname $0`; pwd)
 pushd ${script_path}/..
 
