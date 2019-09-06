@@ -8,6 +8,8 @@ pushd ${script_path}
 rm -rf ../venv
 python3 -m venv ../venv
 source ../venv/bin/activate
+which python3
+which pip3
 pip3 install wheel
 pip3 install -r python/adblockplus2surge/requirements.txt
 mkdir -p ../auto/surge
