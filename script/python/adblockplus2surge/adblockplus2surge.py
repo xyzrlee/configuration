@@ -52,15 +52,15 @@ class AdblockPlus2Surge(object):
             if "$" in rule_str:
                 continue
             is_remove_rule = False
-            is_domain_suffix = False
+            is_domain_suffix = True
             if rule_str.startswith("@@"):
                 rule_str = rule_str[2:]
                 is_remove_rule = True
             if rule_str.startswith("||"):
                 rule_str = rule_str[2:]
-                is_domain_suffix = True
             if rule_str.startswith("|"):
                 rule_str = rule_str[1:]
+                is_domain_suffix = False
             rule_str = self.__remove_redundant(rule_str)
             if is_domain_suffix:
                 self.__set_operation(filter_domain_suffix, self.__get_domain(rule_str), is_remove_rule)
@@ -97,9 +97,9 @@ class AdblockPlus2Surge(object):
             for domain_suffix in filter_domain_suffix:
                 print("DOMAIN-SUFFIX,%s" % domain_suffix, file=f)
             for ipv4 in filter_ipv4:
-                print("IP-CIDR,%s,no-resolve" % ipv4, file=f)
+                print("IP-CIDR,%s/32,no-resolve" % ipv4, file=f)
             for ipv6 in filter_ipv6:
-                print("IP-CIDR6,%s,no-resolve" % ipv6, file=f)
+                print("IP-CIDR6,%s/128,no-resolve" % ipv6, file=f)
 
     @contextlib.contextmanager
     def __open(self, file_path, mode):
