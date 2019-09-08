@@ -11,6 +11,7 @@ script:
     - script/venv.sh
     - script/gitignore.sh
     - script/surge-ad.sh
+    - script/surge-gfwlist.sh
     - script/dnscrypt-proxy-forwarding.sh
     - script/privoxy-gfwlist.sh
     - script/chinadns-chnroute.sh
