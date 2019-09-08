@@ -79,8 +79,7 @@ class AdblockPlus2Lists(object):
         elif validators.ipv6(t) or validators.ipv6_cidr(t):
             result.add(result.ipv6_cidr, t, remove=is_allow)
         else:
-            t = re.sub(r"^.*\*[^.]*\.", "", t)
-            if tld.get_fld("http://" + t, fail_silently=True):
+            if validators.domain(t) and tld.get_fld("http://" + t, fail_silently=True):
                 if is_domain_suffix:
                     result.add(result.domain_suffix, t, remove=is_allow)
                 else:
