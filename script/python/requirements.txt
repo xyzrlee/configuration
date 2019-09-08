@@ -1,0 +1,5 @@
+requests>=2.22.0
+validators>=0.14.0
+sortedcontainers>=2.1.0
+tld>=0.9.3
+python-abp>=0.1.3

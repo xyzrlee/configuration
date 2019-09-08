@@ -1,14 +1,23 @@
 #!/bin/bash
 
-script_path=$(cd `dirname $0`; pwd)
-pushd ${script_path}/..
+set -e
 
-DIR="$(mktemp -d)"
-wget https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt -O ${DIR}/gfwlist.txt
-gfwlist2privoxy -i ${DIR}/gfwlist.txt -f ${DIR}/gfwlist.action -p 127.0.0.1:1080 -t socks5
-sed -i '1d' ${DIR}/gfwlist.action
+script_path=$(
+  cd "$(dirname $0)"
+  pwd
+)
 
-mkdir -p auto/privoxy
-cp -v ${DIR}/gfwlist.action auto/privoxy/
+pushd ${script_path}
+
+source ../venv/bin/activate
+
+mkdir -p ../auto/privoxy
+python3 python/privoxy_gfwlist.py \
+  --output-file="../auto/privoxy/gfwlist.action" \
+  --forward="socks5" \
+  --proxy="127.0.0.1:1080" \
+  --abp-rule-base64="https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt"
+
+deactivate
 
 popd
