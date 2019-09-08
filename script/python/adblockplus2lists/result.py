@@ -51,7 +51,7 @@ class Result(object):
             else:
                 print("IP-CIDR6,%s/128,no-resolve" % ip, file=out)
         for url_regex in self.url_regex:
-            print("URL-REGEX,%s" % url_regex, file=out)
+            print("url-regex: %s" % url_regex)
 
     def write_privoxy(self, forward: str, proxy: str, file=sys.stdout):
         out = file
