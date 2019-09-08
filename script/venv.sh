@@ -2,7 +2,10 @@
 
 set -e
 
-script_path=$(cd "`dirname $0`"; pwd)
+script_path=$(
+  cd "$(dirname $0)"
+  pwd
+)
 
 pushd ${script_path}/..
 
@@ -17,4 +20,3 @@ pip3 install -r script/python/requirements.txt
 deactivate
 
 popd
-
