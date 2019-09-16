@@ -18,6 +18,7 @@ class Rules(object):
         return self
 
     def __download_rules(self, url: str) -> str:
+        print("downloading rule [%s] ..." % url)
         all_text = ""
         response = requests.get(url)
         if response.status_code == requests.codes.ok:
