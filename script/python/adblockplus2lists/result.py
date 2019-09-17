@@ -1,15 +1,27 @@
+import ipaddress
 import sys
 from typing import MutableSet
+from typing import Tuple
 
+import tld
 import validators
 from sortedcontainers import SortedSet
 
 
+def key_domain(dom: str) -> Tuple[str, str, str]:
+    t = tld.parse_tld(dom, fail_silently=True, fix_protocol=True)
+    return (t[1], t[0], t[2]) if t else (dom, "", "")
+
+
+def key_ip(ip: str) -> int:
+    return int(ipaddress.ip_network(ip, strict=False).network_address)
+
+
 class Result(object):
-    __domain: MutableSet[str] = SortedSet()
-    __domain_suffix: MutableSet[str] = SortedSet()
-    __ipv4_cidr: MutableSet[str] = SortedSet()
-    __ipv6_cidr: MutableSet[str] = SortedSet()
+    __domain: MutableSet[str] = SortedSet(key=key_domain)
+    __domain_suffix: MutableSet[str] = SortedSet(key=key_domain)
+    __ipv4_cidr: MutableSet[str] = SortedSet(key=key_ip)
+    __ipv6_cidr: MutableSet[str] = SortedSet(key=key_ip)
     __url_regex: MutableSet[str] = SortedSet()
 
     def __init__(self):
@@ -18,10 +30,7 @@ class Result(object):
     def add(self, to_list: MutableSet[str], text: str, remove: bool = False):
         if str:
             if remove:
-                try:
-                    to_list.remove(text)
-                except KeyError:
-                    pass
+                to_list.discard(text)
             else:
                 to_list.add(text)
         return self

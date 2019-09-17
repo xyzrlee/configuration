@@ -1,5 +1,6 @@
 import base64
 import os
+import urllib.request
 
 import requests
 
@@ -20,7 +21,7 @@ class Rules(object):
     def __download_rules(self, url: str) -> str:
         print("downloading rule [%s] ..." % url)
         all_text = ""
-        response = requests.get(url)
+        response = requests.get(url, proxies=urllib.request.getproxies())
         if response.status_code == requests.codes.ok:
             all_text = response.text
         return all_text

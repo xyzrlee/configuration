@@ -20,9 +20,19 @@ class AdblockPlus2Lists(object):
         tld.utils.update_tld_names()
 
     def convert(self) -> Result:
+        print("conversion begins")
         result = Result()
-        for rule_str in self.rules.text.splitlines():
+        lines = self.rules.text.splitlines()
+        total_lines = len(lines)
+        print("[%r] lines in total" % total_lines)
+        perc, l = 0, 0
+        for rule_str in lines:
             self.__do_convert(result, rule_str)
+            l = l + 1
+            p = int(l / total_lines * 100)
+            if (p - perc >= 10):
+                print("%r%% converted" % p)
+                perc = int(p / 10) * 10
         return result
 
     def __do_convert(self, result: Result, rule: str, is_allow: bool = False) -> None:
@@ -79,7 +89,7 @@ class AdblockPlus2Lists(object):
         elif validators.ipv6(t) or validators.ipv6_cidr(t):
             result.add(result.ipv6_cidr, t, remove=is_allow)
         else:
-            if validators.domain(t) and tld.get_fld("http://" + t, fail_silently=True):
+            if validators.domain(t) and tld.get_fld(t, fail_silently=True, fix_protocol=True):
                 if is_domain_suffix:
                     result.add(result.domain_suffix, t, remove=is_allow)
                 else:
