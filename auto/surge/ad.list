@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,00880808.com
 DOMAIN-SUFFIX,00oo00.com
 DOMAIN-SUFFIX,0133hao.net
 DOMAIN-SUFFIX,securite.01net.com
+DOMAIN-SUFFIX,01w47q.cn
 DOMAIN-SUFFIX,02123s.com
 DOMAIN-SUFFIX,022aifang.com
 DOMAIN-SUFFIX,0234408.cn
@@ -4235,6 +4236,7 @@ DOMAIN-SUFFIX,jhf2e.cn
 DOMAIN-SUFFIX,jhtcdj.com
 DOMAIN-SUFFIX,jhwj88.com
 DOMAIN-SUFFIX,jhzl001.com
+DOMAIN-SUFFIX,jia-huan.cn
 DOMAIN-SUFFIX,jiaheyonggu.com
 DOMAIN-SUFFIX,jiajv.net
 DOMAIN-SUFFIX,jianbaimei.com
@@ -4535,6 +4537,7 @@ DOMAIN-SUFFIX,kld666.com
 DOMAIN-SUFFIX,kldmm.com
 DOMAIN-SUFFIX,statistics.klicktel.de
 DOMAIN-SUFFIX,pixel.klout.com
+DOMAIN-SUFFIX,klsadm.com
 DOMAIN-SUFFIX,klsdmr.com
 DOMAIN-SUFFIX,kmadou.com
 DOMAIN-SUFFIX,kmwqxqh.com
@@ -5251,7 +5254,6 @@ DOMAIN-SUFFIX,analytics.myfinance.com
 DOMAIN-SUFFIX,mygeneclub.com
 DOMAIN-SUFFIX,mygoodlives.com
 DOMAIN-SUFFIX,myornamenti.com
-DOMAIN-SUFFIX,myownads.space
 DOMAIN-SUFFIX,tag.myplay.com
 DOMAIN-SUFFIX,ggtp-1255424916.cos.ap-chengdu.myqcloud.com
 DOMAIN-SUFFIX,myregeneaf.com
@@ -8899,6 +8901,7 @@ IP-CIDR,134.73.54.252/32,no-resolve
 IP-CIDR,139.159.32.82/32,no-resolve
 IP-CIDR,139.196.166.21/32,no-resolve
 IP-CIDR,146.148.85.61/32,no-resolve
+IP-CIDR,162.209.213.66/32,no-resolve
 IP-CIDR,167.206.10.148/32,no-resolve
 IP-CIDR,172.81.246.180/32,no-resolve
 IP-CIDR,174.123.15.43/32,no-resolve
