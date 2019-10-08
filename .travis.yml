@@ -15,6 +15,7 @@ script:
     - script/dnscrypt-proxy-forwarding.sh
     - script/privoxy-gfwlist.sh
     - script/chinadns-chnroute.sh
+    - script/dnsmasq-china-domains.sh
 
 deploy:
     provider: pages
