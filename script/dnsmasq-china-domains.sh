@@ -10,7 +10,7 @@ pushd ${script_path}/..
 DIR="$(mktemp -d)"
 git clone --depth=1 https://github.com/felixonmars/dnsmasq-china-list.git ${DIR}
 pushd ${DIR}
-make SERVER=119.29.29.29 dnsmasq
+make SERVER=114.114.114.114 dnsmasq
 popd
 mkdir -p auto/dnsmasq
 cp ${DIR}/accelerated-domains.china.dnsmasq.conf auto/dnsmasq/china-domains.conf
