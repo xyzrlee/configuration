@@ -150,7 +150,9 @@ DOMAIN-SUFFIX,2013sh.com
 DOMAIN-SUFFIX,20150930.cf
 DOMAIN-SUFFIX,1.201980.com
 DOMAIN-SUFFIX,2048hd.space
+DOMAIN-SUFFIX,u1.2048sj.com
 DOMAIN-SUFFIX,stats01.20min.ch
+DOMAIN-SUFFIX,a.20minutes.fr
 DOMAIN-SUFFIX,210189.com
 DOMAIN-SUFFIX,215to.cn
 DOMAIN-SUFFIX,216pu.cn
@@ -809,6 +811,7 @@ DOMAIN-SUFFIX,alisinak.com
 DOMAIN-SUFFIX,alitianxia168.com
 DOMAIN-SUFFIX,badding.oss-ap-southeast-1.aliyuncs.com
 DOMAIN-SUFFIX,jpg1.oss-cn-beijing.aliyuncs.com
+DOMAIN-SUFFIX,log.aliyuncs.com
 DOMAIN-SUFFIX,aliyuncss.com
 DOMAIN-SUFFIX,aliyunxin.com
 DOMAIN-SUFFIX,alksdh.com
@@ -1807,6 +1810,9 @@ DOMAIN-SUFFIX,rtb.connatix.com
 DOMAIN-SUFFIX,tr.connatix.com
 DOMAIN-SUFFIX,trk.connatix.com
 DOMAIN-SUFFIX,geo.connexionsecure.com
+DOMAIN-SUFFIX,event-api.contactatonce.co.uk
+DOMAIN-SUFFIX,event-api.contactatonce.com
+DOMAIN-SUFFIX,event-api.contactatonce.com.au
 DOMAIN-SUFFIX,track.contently.com
 DOMAIN-SUFFIX,experience.contextly.com
 DOMAIN-SUFFIX,continuedsys.cn
@@ -1884,6 +1890,8 @@ DOMAIN-SUFFIX,csp-collector.appspot.com
 DOMAIN-SUFFIX,csqiulong.com
 DOMAIN-SUFFIX,cssdiv.club
 DOMAIN-SUFFIX,cstoa.com
+DOMAIN-SUFFIX,csxsyp.cn
+DOMAIN-SUFFIX,ct1985.com
 DOMAIN-SUFFIX,ctiev.com
 DOMAIN-SUFFIX,ctlrnwbv.ru
 DOMAIN-SUFFIX,ctrhfd.top
@@ -3369,6 +3377,7 @@ DOMAIN-SUFFIX,analytics.groupe-seb.com
 DOMAIN-SUFFIX,eu.groupondata.com
 DOMAIN-SUFFIX,analytics.grupogodo.com
 DOMAIN-SUFFIX,gg.gsdlcn.com
+DOMAIN-SUFFIX,gshtrl.top
 DOMAIN-SUFFIX,gso0.com
 DOMAIN-SUFFIX,csi.gstatic.com
 DOMAIN-SUFFIX,metric.gstatic.com
@@ -4077,6 +4086,7 @@ DOMAIN-SUFFIX,z888.izhufu.net
 DOMAIN-SUFFIX,events.izooto.com
 DOMAIN-SUFFIX,izouo.com
 DOMAIN-SUFFIX,izuis.com
+DOMAIN-SUFFIX,j200d3.cn
 DOMAIN-SUFFIX,ja9377.com
 DOMAIN-SUFFIX,jaat3ax.site
 DOMAIN-SUFFIX,analytics.jabong.com
@@ -4393,6 +4403,7 @@ DOMAIN-SUFFIX,kfeiu.com
 DOMAIN-SUFFIX,kfi8.com
 DOMAIN-SUFFIX,kfluoa.com
 DOMAIN-SUFFIX,kfuih.cn
+DOMAIN-SUFFIX,kgcj00.cn
 DOMAIN-SUFFIX,kgcjgsa8.net
 DOMAIN-SUFFIX,kguaq.com
 DOMAIN-SUFFIX,kguke.com
@@ -5032,6 +5043,7 @@ DOMAIN-SUFFIX,visit.mobot.net
 DOMAIN-SUFFIX,dontblockme.modaco.com
 DOMAIN-SUFFIX,rv.modanisa.com
 DOMAIN-SUFFIX,jskrnekewe.mofans.net
+DOMAIN-SUFFIX,moguozhi.com
 DOMAIN-SUFFIX,mojigaga.com
 DOMAIN-SUFFIX,edrta.mol.im
 DOMAIN-SUFFIX,money-maker-default.info
@@ -6126,6 +6138,7 @@ DOMAIN-SUFFIX,rdtylx.cn
 DOMAIN-SUFFIX,rdxhrd.com
 DOMAIN-SUFFIX,ad.reachlocal.com
 DOMAIN-SUFFIX,px.reactrmod.com
+DOMAIN-SUFFIX,metrics.readme.io
 DOMAIN-SUFFIX,tracker.realclearpolitics.com
 DOMAIN-SUFFIX,widgets.realestate.com.au
 DOMAIN-SUFFIX,events.realgravity.com
@@ -6652,6 +6665,7 @@ DOMAIN-SUFFIX,lu.sogoucdn.com
 DOMAIN-SUFFIX,ads.sohu.com
 DOMAIN-SUFFIX,assp.sohu.com
 DOMAIN-SUFFIX,count.vrs.sohu.com
+DOMAIN-SUFFIX,fpb.sohu.com
 DOMAIN-SUFFIX,imp.go.sohu.com
 DOMAIN-SUFFIX,m.aty.sohu.com
 DOMAIN-SUFFIX,p.aty.sohu.com
@@ -7132,6 +7146,7 @@ DOMAIN-SUFFIX,tinkerta.com
 DOMAIN-SUFFIX,tinwong.cn
 DOMAIN-SUFFIX,analytics.tio.ch
 DOMAIN-SUFFIX,tiojk.com
+DOMAIN-SUFFIX,stats.tipser.com
 DOMAIN-SUFFIX,img2.titan007.com
 DOMAIN-SUFFIX,banner.titancasino.com
 DOMAIN-SUFFIX,tracker.tiu.ru
@@ -7321,6 +7336,7 @@ DOMAIN-SUFFIX,twzui6.com
 DOMAIN-SUFFIX,txdwc.cn
 DOMAIN-SUFFIX,txstatic.cn
 DOMAIN-SUFFIX,txt2017.com
+DOMAIN-SUFFIX,txt2019.cc
 DOMAIN-SUFFIX,txtxr.com
 DOMAIN-SUFFIX,ashot.txxx.com
 DOMAIN-SUFFIX,myashot.txxx.com
@@ -8714,6 +8730,7 @@ IP-CIDR,104.197.199.227/32,no-resolve
 IP-CIDR,104.198.198.188/32,no-resolve
 IP-CIDR,104.203.72.254/32,no-resolve
 IP-CIDR,104.233.203.164/32,no-resolve
+IP-CIDR,104.237.67.78/32,no-resolve
 IP-CIDR,106.187.95.251/32,no-resolve
 IP-CIDR,107.172.176.197/32,no-resolve
 IP-CIDR,107.187.255.178/32,no-resolve
