@@ -247,7 +247,6 @@ DOMAIN,lhakar.org
 DOMAIN,link-o-rama.com
 DOMAIN,liuxiaobo.net
 DOMAIN,looktoronto.com
-DOMAIN,ltn.com.tw
 DOMAIN,lyfhk.net
 DOMAIN,www.m-sport.co.uk
 DOMAIN,maiplus.com
@@ -598,6 +597,7 @@ DOMAIN-SUFFIX,66.ca
 DOMAIN-SUFFIX,666kb.com
 DOMAIN-SUFFIX,6park.com
 DOMAIN-SUFFIX,6parker.com
+DOMAIN-SUFFIX,6parknews.com
 DOMAIN-SUFFIX,7capture.com
 DOMAIN-SUFFIX,7cow.com
 DOMAIN-SUFFIX,8-d.com
@@ -861,6 +861,7 @@ DOMAIN-SUFFIX,avcool.com
 DOMAIN-SUFFIX,avdb.in
 DOMAIN-SUFFIX,avdb.tv
 DOMAIN-SUFFIX,avfantasy.com
+DOMAIN-SUFFIX,avg.com
 DOMAIN-SUFFIX,avgle.com
 DOMAIN-SUFFIX,avidemux.org
 DOMAIN-SUFFIX,avmo.pw
@@ -1608,6 +1609,7 @@ DOMAIN-SUFFIX,dlsite.com
 DOMAIN-SUFFIX,dlyoutube.com
 DOMAIN-SUFFIX,dm530.net
 DOMAIN-SUFFIX,dmcdn.net
+DOMAIN-SUFFIX,dmhy.org
 DOMAIN-SUFFIX,share.dmhy.org
 DOMAIN-SUFFIX,dmm.co.jp
 DOMAIN-SUFFIX,dns.google
@@ -1953,6 +1955,7 @@ DOMAIN-SUFFIX,fdc64.org
 DOMAIN-SUFFIX,fdc89.jp
 DOMAIN-SUFFIX,feedburner.com
 DOMAIN-SUFFIX,cloud.feedly.com
+DOMAIN-SUFFIX,feedx.net
 DOMAIN-SUFFIX,feelssh.com
 DOMAIN-SUFFIX,feer.com
 DOMAIN-SUFFIX,feifeiss.com
@@ -2453,6 +2456,7 @@ DOMAIN-SUFFIX,hahaxixi.github.io
 DOMAIN-SUFFIX,hahlo.com
 DOMAIN-SUFFIX,hakkatv.org.tw
 DOMAIN-SUFFIX,handcraftedsoftware.org
+DOMAIN-SUFFIX,hanime.tv
 DOMAIN-SUFFIX,hanunyi.com
 DOMAIN-SUFFIX,hao.news
 DOMAIN-SUFFIX,haoel.github.io
@@ -4072,6 +4076,7 @@ DOMAIN-SUFFIX,qusi8.net
 DOMAIN-SUFFIX,qvodzy.org
 DOMAIN-SUFFIX,nemesis2.qx.net
 DOMAIN-SUFFIX,qxbbs.org
+DOMAIN-SUFFIX,qz.com
 DOMAIN-SUFFIX,r18.com
 DOMAIN-SUFFIX,ra.gg
 DOMAIN-SUFFIX,radicalparty.org
@@ -4098,6 +4103,7 @@ DOMAIN-SUFFIX,rapidvpn.com
 DOMAIN-SUFFIX,rarbgprx.org
 DOMAIN-SUFFIX,raremovie.cc
 DOMAIN-SUFFIX,raremovie.net
+DOMAIN-SUFFIX,raw.githubusercontent.com
 DOMAIN-SUFFIX,rawgit.com
 DOMAIN-SUFFIX,rawgithub.com
 DOMAIN-SUFFIX,secure.raxcdn.com
@@ -5329,6 +5335,7 @@ DOMAIN-SUFFIX,wapedia.mobi
 DOMAIN-SUFFIX,makzhou.warehouse333.com
 DOMAIN-SUFFIX,waselpro.com
 DOMAIN-SUFFIX,washeng.net
+DOMAIN-SUFFIX,washingtonpost.com
 DOMAIN-SUFFIX,watch8x.com
 DOMAIN-SUFFIX,watchinese.com
 DOMAIN-SUFFIX,watchmygf.net
