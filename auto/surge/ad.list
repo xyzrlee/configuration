@@ -80,6 +80,7 @@ DOMAIN-SUFFIX,12365chia.com
 DOMAIN-SUFFIX,12381236.com
 DOMAIN-SUFFIX,123hala.com
 DOMAIN-SUFFIX,ent1.12584.cn
+DOMAIN-SUFFIX,analytics.126.net
 DOMAIN-SUFFIX,img1.126.net
 DOMAIN-SUFFIX,img2.126.net
 DOMAIN-SUFFIX,img3.126.net
@@ -833,7 +834,6 @@ DOMAIN-SUFFIX,akrwi.cn
 DOMAIN-SUFFIX,geoip.al.com
 DOMAIN-SUFFIX,mms.al.com
 DOMAIN-SUFFIX,alabardak.com
-DOMAIN-SUFFIX,madmen.alastonsuomi.com
 DOMAIN-SUFFIX,albertonne.com
 DOMAIN-SUFFIX,alexa.com
 DOMAIN-SUFFIX,data.alexa.com
@@ -1206,6 +1206,7 @@ DOMAIN-SUFFIX,bdiae.com
 DOMAIN-SUFFIX,ecma.bdimg.com
 DOMAIN-SUFFIX,ecmb.bdimg.com
 DOMAIN-SUFFIX,bdpuaw.com
+DOMAIN-SUFFIX,zz.bdstatic.com
 DOMAIN-SUFFIX,bdtongfei.cn
 DOMAIN-SUFFIX,foreveryoung.gz01.bdysite.com
 DOMAIN-SUFFIX,bdyxzx.com
@@ -1254,6 +1255,7 @@ DOMAIN-SUFFIX,bgcse.cn
 DOMAIN-SUFFIX,bgj216.cn
 DOMAIN-SUFFIX,bgtrtv.top
 DOMAIN-SUFFIX,1.bh5.com.cn
+DOMAIN-SUFFIX,bhaoea.cn
 DOMAIN-SUFFIX,analytics.bhaskar.com
 DOMAIN-SUFFIX,trk.bhs4.com
 DOMAIN-SUFFIX,bhuak.com
@@ -3397,7 +3399,6 @@ DOMAIN-SUFFIX,gghh486.cn
 DOMAIN-SUFFIX,gghh493.cn
 DOMAIN-SUFFIX,ggouh.com
 DOMAIN-SUFFIX,ggtg8.com
-DOMAIN-SUFFIX,ggwan.com
 DOMAIN-SUFFIX,ggweb.net
 DOMAIN-SUFFIX,logs.ggweb.nl
 DOMAIN-SUFFIX,ggz55268.com
@@ -3991,6 +3992,7 @@ DOMAIN-SUFFIX,i05h.cn
 DOMAIN-SUFFIX,metric-agent.i10c.net
 DOMAIN-SUFFIX,sett.i12.de
 DOMAIN-SUFFIX,1.i1766.com
+DOMAIN-SUFFIX,i36mf.cn
 DOMAIN-SUFFIX,i3818.com
 DOMAIN-SUFFIX,i5iog3mlrw.com
 DOMAIN-SUFFIX,i92xue.com
@@ -4185,6 +4187,7 @@ DOMAIN-SUFFIX,eventlog.inspsearchapi.com
 DOMAIN-SUFFIX,installp.com
 DOMAIN-SUFFIX,insuf.cn
 DOMAIN-SUFFIX,intellecthosting.net
+DOMAIN-SUFFIX,traccoon.intellectsoft.net
 DOMAIN-SUFFIX,fab.interia.pl
 DOMAIN-SUFFIX,hit.interia.pl
 DOMAIN-SUFFIX,tr.interlake.net
@@ -5720,6 +5723,7 @@ DOMAIN-SUFFIX,oende.cn
 DOMAIN-SUFFIX,oeocriaq.cn
 DOMAIN-SUFFIX,oesnw.com
 DOMAIN-SUFFIX,clientlog.portal.office.com
+DOMAIN-SUFFIX,measure.office.com
 DOMAIN-SUFFIX,sitereports.officelive.com
 DOMAIN-SUFFIX,officeme.cn
 DOMAIN-SUFFIX,a.oh100.com
