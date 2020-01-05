@@ -299,6 +299,7 @@ DOMAIN-SUFFIX,3xx.vip
 DOMAIN-SUFFIX,3ygww.com
 DOMAIN-SUFFIX,4006825178.com
 DOMAIN-SUFFIX,ios.426g.com
+DOMAIN-SUFFIX,42rca.cn
 DOMAIN-SUFFIX,ok.432kkk.com
 DOMAIN-SUFFIX,4480dy.net
 DOMAIN-SUFFIX,statsrv.451.com
@@ -374,7 +375,6 @@ DOMAIN-SUFFIX,a.52wubi.com
 DOMAIN-SUFFIX,52yugan.com
 DOMAIN-SUFFIX,52zfl.com
 DOMAIN-SUFFIX,a.52zxw.com
-DOMAIN-SUFFIX,a.53yao.com
 DOMAIN-SUFFIX,550tg.com
 DOMAIN-SUFFIX,551f044b1a3f4ef.com
 DOMAIN-SUFFIX,5535aibo.com
@@ -976,6 +976,7 @@ DOMAIN-SUFFIX,analytics.archive.org
 DOMAIN-SUFFIX,analytics.us.archive.org
 DOMAIN-SUFFIX,archrug.com
 DOMAIN-SUFFIX,arealx.com
+DOMAIN-SUFFIX,areandarm.com
 DOMAIN-SUFFIX,areantaid.site
 DOMAIN-SUFFIX,arganostrella.com
 DOMAIN-SUFFIX,sp.argusleader.com
@@ -1500,6 +1501,7 @@ DOMAIN-SUFFIX,cactions.pro
 DOMAIN-SUFFIX,cadreon.s3.amazonaws.com
 DOMAIN-SUFFIX,cadsabz.com
 DOMAIN-SUFFIX,cadsats.com
+DOMAIN-SUFFIX,cadsecs.com
 DOMAIN-SUFFIX,cadsips.com
 DOMAIN-SUFFIX,cadsipz.com
 DOMAIN-SUFFIX,caduka.cn
@@ -2248,6 +2250,7 @@ DOMAIN-SUFFIX,dachadu.cn
 DOMAIN-SUFFIX,tracy.sadv.dadapro.com
 DOMAIN-SUFFIX,dadawm.cc
 DOMAIN-SUFFIX,dadjia.com
+DOMAIN-SUFFIX,dadsecz.com
 DOMAIN-SUFFIX,dadsoks.com
 DOMAIN-SUFFIX,daecan.xyz
 DOMAIN-SUFFIX,daethana.pw
@@ -4705,7 +4708,6 @@ DOMAIN-SUFFIX,lcrmm.top
 DOMAIN-SUFFIX,ldgjhd.net
 DOMAIN-SUFFIX,sp.ldnews.com
 DOMAIN-SUFFIX,le4le.com
-DOMAIN-SUFFIX,collector.leaddyno.com
 DOMAIN-SUFFIX,leaddyno-client-images.s3.amazonaws.com
 DOMAIN-SUFFIX,track.leadin.com
 DOMAIN-SUFFIX,tracking.leadlander.com
@@ -5881,6 +5883,7 @@ DOMAIN-SUFFIX,performanceplay.co.kr
 DOMAIN-SUFFIX,pmetrics.performancing.com
 DOMAIN-SUFFIX,geolocation.performgroup.com
 DOMAIN-SUFFIX,tracking.performgroup.com
+DOMAIN-SUFFIX,t.perigold.com
 DOMAIN-SUFFIX,perkas.pw
 DOMAIN-SUFFIX,c.perlentaucher.de
 DOMAIN-SUFFIX,e-spy.petit.lv
@@ -6137,6 +6140,7 @@ DOMAIN-SUFFIX,a1.q6u.com
 DOMAIN-SUFFIX,q7ms.cn
 DOMAIN-SUFFIX,qaqact.cn
 DOMAIN-SUFFIX,qaquzakalaka.com
+DOMAIN-SUFFIX,qarsza.cn
 DOMAIN-SUFFIX,qawiman.com
 DOMAIN-SUFFIX,dig.qbao.com
 DOMAIN-SUFFIX,cp.qbaobei.com
@@ -9107,6 +9111,7 @@ IP-CIDR,162.209.213.66/32,no-resolve
 IP-CIDR,167.206.10.148/32,no-resolve
 IP-CIDR,172.81.246.180/32,no-resolve
 IP-CIDR,174.123.15.43/32,no-resolve
+IP-CIDR,174.139.53.195/32,no-resolve
 IP-CIDR,180.76.171.28/32,no-resolve
 IP-CIDR,182.92.81.104/32,no-resolve
 IP-CIDR,193.238.46.6/32,no-resolve
