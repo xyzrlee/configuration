@@ -66,7 +66,6 @@ DOMAIN-SUFFIX,111111qb.com
 DOMAIN-SUFFIX,11370090.net
 DOMAIN-SUFFIX,1.11467.com
 DOMAIN-SUFFIX,114com.cc
-DOMAIN-SUFFIX,book.114la.cn
 DOMAIN-SUFFIX,tg.1155t.cn
 DOMAIN-SUFFIX,116zhuce.com
 DOMAIN-SUFFIX,11888vip.cn
@@ -1559,6 +1558,7 @@ DOMAIN-SUFFIX,uie.data.cbc.ca
 DOMAIN-SUFFIX,metrics.cbn.com
 DOMAIN-SUFFIX,track.cbs.com
 DOMAIN-SUFFIX,intent.cbsi.com
+DOMAIN-SUFFIX,isgprivacy.cbsi.com
 DOMAIN-SUFFIX,om.cbsi.com
 DOMAIN-SUFFIX,metrics.cbslocal.com
 DOMAIN-SUFFIX,mms.cbslocal.com
@@ -2686,6 +2686,7 @@ DOMAIN-SUFFIX,dxwgpw0lkcum5.cloudfront.net
 DOMAIN-SUFFIX,dy2xcjk8s1dbz.cloudfront.net
 DOMAIN-SUFFIX,dy48bnzanqw0v.cloudfront.net
 DOMAIN-SUFFIX,dy886.cn
+DOMAIN-SUFFIX,dy8nb.com
 DOMAIN-SUFFIX,dybxezbel1g44.cloudfront.net
 DOMAIN-SUFFIX,dycpc40hvg4ki.cloudfront.net
 DOMAIN-SUFFIX,dydab.com
@@ -4692,6 +4693,7 @@ DOMAIN-SUFFIX,283.laobanfa.com
 DOMAIN-SUFFIX,laobei.top
 DOMAIN-SUFFIX,laojiayoufang.com
 DOMAIN-SUFFIX,laolinow.com
+DOMAIN-SUFFIX,fsm.lapresse.ca
 DOMAIN-SUFFIX,ttauri.laptopmag.com
 DOMAIN-SUFFIX,laratlacrestot.pro
 DOMAIN-SUFFIX,las4srv.com
@@ -8805,6 +8807,7 @@ DOMAIN-SUFFIX,yzygo.com
 DOMAIN-SUFFIX,yzytb.com
 DOMAIN-SUFFIX,yktj.yzz.cn
 DOMAIN-SUFFIX,z3uk6.cn
+DOMAIN-SUFFIX,z41vm.cn
 DOMAIN-SUFFIX,zabxb.com
 DOMAIN-SUFFIX,gp.zaiyunli.cn
 DOMAIN-SUFFIX,metrigo.zalan.do
@@ -9079,6 +9082,7 @@ IP-CIDR,104.197.140.120/32,no-resolve
 IP-CIDR,104.197.199.227/32,no-resolve
 IP-CIDR,104.198.198.188/32,no-resolve
 IP-CIDR,104.203.72.254/32,no-resolve
+IP-CIDR,104.203.214.3/32,no-resolve
 IP-CIDR,104.233.203.164/32,no-resolve
 IP-CIDR,104.237.67.78/32,no-resolve
 IP-CIDR,106.187.95.251/32,no-resolve
