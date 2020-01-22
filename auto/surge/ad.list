@@ -1783,6 +1783,7 @@ DOMAIN-SUFFIX,analytics.codigo.se
 DOMAIN-SUFFIX,codlw.com
 DOMAIN-SUFFIX,coenr.com
 DOMAIN-SUFFIX,analytics.cohesionapps.com
+DOMAIN-SUFFIX,make.cohesionapps.com
 DOMAIN-SUFFIX,coin-cube.com
 DOMAIN-SUFFIX,cojia.net
 DOMAIN-SUFFIX,track.collegehumor.com
@@ -2403,15 +2404,6 @@ DOMAIN-SUFFIX,sp.dnj.com
 DOMAIN-SUFFIX,dnn506yrbagrg.cloudfront.net
 DOMAIN-SUFFIX,sp.dnqc.com
 DOMAIN-SUFFIX,dnskuu.com
-DOMAIN-SUFFIX,p2.dnvod.tv
-DOMAIN-SUFFIX,p3.dnvod.tv
-DOMAIN-SUFFIX,p4.dnvod.tv
-DOMAIN-SUFFIX,p5.dnvod.tv
-DOMAIN-SUFFIX,p6.dnvod.tv
-DOMAIN-SUFFIX,pub1.dnvod.tv
-DOMAIN-SUFFIX,s1-a1.dnvod.tv
-DOMAIN-SUFFIX,s1-a2.dnvod.tv
-DOMAIN-SUFFIX,s1-a3.dnvod.tv
 DOMAIN-SUFFIX,dnvus.com
 DOMAIN-SUFFIX,doathair.com
 DOMAIN-SUFFIX,dodatova.com
@@ -2760,6 +2752,7 @@ DOMAIN-SUFFIX,eysmaa.pw
 DOMAIN-SUFFIX,img1.eywdf.com
 DOMAIN-SUFFIX,liveviewer.ez.no
 DOMAIN-SUFFIX,ez33.org.cn
+DOMAIN-SUFFIX,ezexfzek.com
 DOMAIN-SUFFIX,ezfashion.com.cn
 DOMAIN-SUFFIX,ezucods.cn
 DOMAIN-SUFFIX,ezuon.com
@@ -7263,6 +7256,7 @@ DOMAIN-SUFFIX,urifiel.pw
 DOMAIN-SUFFIX,urlat.cn
 DOMAIN-SUFFIX,analytics.urx.io
 DOMAIN-SUFFIX,sp.usatoday.com
+DOMAIN-SUFFIX,collect.usefathom.com
 DOMAIN-SUFFIX,userfly.com
 DOMAIN-SUFFIX,usty357a.site
 DOMAIN-SUFFIX,stats.uswitch.com
@@ -7438,6 +7432,7 @@ DOMAIN-SUFFIX,vw-passat.pl
 DOMAIN-SUFFIX,vwb4p.cn
 DOMAIN-SUFFIX,vweit.com
 DOMAIN-SUFFIX,vwws6.net
+DOMAIN-SUFFIX,vxsnk.com
 DOMAIN-SUFFIX,vy74i.cn
 DOMAIN-SUFFIX,vz71j.cn
 DOMAIN-SUFFIX,w13qh.cn
@@ -8564,7 +8559,6 @@ IP-CIDR,46.165.197.231/32,no-resolve
 IP-CIDR,47.90.50.177/32,no-resolve
 IP-CIDR,58.215.179.159/32,no-resolve
 IP-CIDR,60.190.139.164/32,no-resolve
-IP-CIDR,61.147.184.18/32,no-resolve
 IP-CIDR,61.152.223.15/32,no-resolve
 IP-CIDR,61.174.50.211/32,no-resolve
 IP-CIDR,69.28.57.245/32,no-resolve
