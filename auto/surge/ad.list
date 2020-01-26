@@ -62,7 +62,6 @@ DOMAIN-SUFFIX,0x1f4b0.com
 DOMAIN-SUFFIX,0xxd.com
 DOMAIN-SUFFIX,0z5jn.cn
 DOMAIN-SUFFIX,1000dy.com
-DOMAIN-SUFFIX,100ea.com
 DOMAIN-SUFFIX,100fenlm.com
 DOMAIN-SUFFIX,1.1010pic.com
 DOMAIN-SUFFIX,1017.cn
@@ -87,7 +86,6 @@ DOMAIN-SUFFIX,ent1.12584.cn
 DOMAIN-SUFFIX,img1.126.net
 DOMAIN-SUFFIX,img2.126.net
 DOMAIN-SUFFIX,img3.126.net
-DOMAIN-SUFFIX,ip.ws.126.net
 DOMAIN-SUFFIX,stat.ws.126.net
 DOMAIN-SUFFIX,yt-adp.ws.126.net
 DOMAIN-SUFFIX,pg-ad-b1.nosdn.127.net
@@ -949,6 +947,7 @@ DOMAIN-SUFFIX,areantaid.site
 DOMAIN-SUFFIX,arganostrella.com
 DOMAIN-SUFFIX,sp.argusleader.com
 DOMAIN-SUFFIX,aristianewr.club
+DOMAIN-SUFFIX,arkairbuy.site
 DOMAIN-SUFFIX,armaimapt.club
 DOMAIN-SUFFIX,7lbd4.armandthiery.fr
 DOMAIN-SUFFIX,armani.com
@@ -2074,6 +2073,7 @@ DOMAIN-SUFFIX,d2glav2919q4cw.cloudfront.net
 DOMAIN-SUFFIX,d2ho1n52p59mwv.cloudfront.net
 DOMAIN-SUFFIX,d2hvwfg7vv4mhf.cloudfront.net
 DOMAIN-SUFFIX,d2ibu2ug0mt5qp.cloudfront.net
+DOMAIN-SUFFIX,d2izls9pm2f64q.cloudfront.net
 DOMAIN-SUFFIX,d2kdl5wcwrtj90.cloudfront.net
 DOMAIN-SUFFIX,d2kr2fnkbj2h4c.cloudfront.net
 DOMAIN-SUFFIX,d2mic0r0bo3i6z.cloudfront.net
@@ -3023,6 +3023,7 @@ DOMAIN-SUFFIX,fwt0.com
 DOMAIN-SUFFIX,fwyang.com
 DOMAIN-SUFFIX,ams.fx678.com
 DOMAIN-SUFFIX,cms.fx678.com
+DOMAIN-SUFFIX,cms.fx678img.com
 DOMAIN-SUFFIX,fx6j3.cn
 DOMAIN-SUFFIX,fxfhjs.com
 DOMAIN-SUFFIX,fxmacd.com
@@ -4176,6 +4177,7 @@ DOMAIN-SUFFIX,jsyxfdj.com
 DOMAIN-SUFFIX,jsyzw132.com
 DOMAIN-SUFFIX,jtdxz.top
 DOMAIN-SUFFIX,jtkshop.net
+DOMAIN-SUFFIX,jucaishequ.com
 DOMAIN-SUFFIX,jiaoben.jucanw.com
 DOMAIN-SUFFIX,kitchen.juicer.cc
 DOMAIN-SUFFIX,jullycn.com
@@ -5507,7 +5509,9 @@ DOMAIN-SUFFIX,p74.cc
 DOMAIN-SUFFIX,tracking.pacharge.com
 DOMAIN-SUFFIX,counter.packa2.cz
 DOMAIN-SUFFIX,analytics.paddle.com
+DOMAIN-SUFFIX,padsimz.com
 DOMAIN-SUFFIX,padsips.com
+DOMAIN-SUFFIX,padskiz.com
 DOMAIN-SUFFIX,padsreds.com
 DOMAIN-SUFFIX,acbp0020171456.page.tl
 DOMAIN-SUFFIX,p.pagesjaunes.fr
@@ -6508,6 +6512,7 @@ DOMAIN-SUFFIX,slvtx.com
 DOMAIN-SUFFIX,slygzsc.cn
 DOMAIN-SUFFIX,log.m.sm.cn
 DOMAIN-SUFFIX,sugs.m.sm.cn
+DOMAIN-SUFFIX,sm077.com
 DOMAIN-SUFFIX,xy33.smallable.com
 DOMAIN-SUFFIX,smallmovieapp.com
 DOMAIN-SUFFIX,ad.smartclip.net
@@ -8676,6 +8681,7 @@ IP-CIDR,134.73.54.252/32,no-resolve
 IP-CIDR,139.159.32.82/32,no-resolve
 IP-CIDR,139.196.166.21/32,no-resolve
 IP-CIDR,146.148.85.61/32,no-resolve
+IP-CIDR,154.83.113.19/32,no-resolve
 IP-CIDR,162.209.213.66/32,no-resolve
 IP-CIDR,164.155.185.254/32,no-resolve
 IP-CIDR,167.206.10.148/32,no-resolve
