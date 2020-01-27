@@ -197,7 +197,6 @@ DOMAIN-SUFFIX,img.263y.com
 DOMAIN-SUFFIX,265958.com
 DOMAIN-SUFFIX,adm.265g.com
 DOMAIN-SUFFIX,268mob.cn
-DOMAIN-SUFFIX,mm.26ksw.com
 DOMAIN-SUFFIX,272xb.com
 DOMAIN-SUFFIX,m1.27com.com
 DOMAIN-SUFFIX,280asnlnr7.com
@@ -389,6 +388,7 @@ DOMAIN-SUFFIX,58xmgys.com
 DOMAIN-SUFFIX,m.58xs.tw
 DOMAIN-SUFFIX,592man.com
 DOMAIN-SUFFIX,59gt.cn
+DOMAIN-SUFFIX,5a8p12.cn
 DOMAIN-SUFFIX,5dian.org
 DOMAIN-SUFFIX,5dydk.com
 DOMAIN-SUFFIX,5egk.com
@@ -2335,7 +2335,6 @@ DOMAIN-SUFFIX,zs.dhl.de
 DOMAIN-SUFFIX,dhlmy.com
 DOMAIN-SUFFIX,dhuhui.cn
 DOMAIN-SUFFIX,dhxyzx.cn
-DOMAIN-SUFFIX,qd.dhzw.org
 DOMAIN-SUFFIX,di9qu.com.cn
 DOMAIN-SUFFIX,dialgold.com
 DOMAIN-SUFFIX,ea.diamant-unique.com
@@ -2667,6 +2666,7 @@ DOMAIN-SUFFIX,ei4f.cn
 DOMAIN-SUFFIX,7mx.eider.com
 DOMAIN-SUFFIX,adingo.jp.eimg.jp
 DOMAIN-SUFFIX,einsuran.com.cn
+DOMAIN-SUFFIX,ejeenews.com
 DOMAIN-SUFFIX,ejieban.com
 DOMAIN-SUFFIX,ejiur.com
 DOMAIN-SUFFIX,ejunshi.com
@@ -2701,6 +2701,7 @@ DOMAIN-SUFFIX,eap.enorth.com.cn
 DOMAIN-SUFFIX,eap.big5.enorth.com.cn
 DOMAIN-SUFFIX,counter.entertainmentwise.com
 DOMAIN-SUFFIX,enyayinxiang.com
+DOMAIN-SUFFIX,eo62cocntx.com
 DOMAIN-SUFFIX,bdu1.eol.cn
 DOMAIN-SUFFIX,eoredi.com
 DOMAIN-SUFFIX,eou01a.cn
@@ -3344,6 +3345,7 @@ DOMAIN-SUFFIX,gygdmy.com
 DOMAIN-SUFFIX,gyhzr.com
 DOMAIN-SUFFIX,gyrtg.com
 DOMAIN-SUFFIX,gyt168.com.cn
+DOMAIN-SUFFIX,gz-bz.cn
 DOMAIN-SUFFIX,d.gz2010.cn
 DOMAIN-SUFFIX,my.gz2010.cn
 DOMAIN-SUFFIX,gzcl999.cn
@@ -4156,6 +4158,7 @@ DOMAIN-SUFFIX,jppolid-track.trackprod.integration.jppol.dk
 DOMAIN-SUFFIX,jqsex.com
 DOMAIN-SUFFIX,jqz9.com
 DOMAIN-SUFFIX,jrdkc.com
+DOMAIN-SUFFIX,js88895.net
 DOMAIN-SUFFIX,syndication.jsadapi.com
 DOMAIN-SUFFIX,jsadt.com
 DOMAIN-SUFFIX,jsaik.com
@@ -4282,6 +4285,7 @@ DOMAIN-SUFFIX,kehuziliaona.com
 DOMAIN-SUFFIX,a.kejixun.com
 DOMAIN-SUFFIX,kele4.com
 DOMAIN-SUFFIX,widget.kelkoo.com
+DOMAIN-SUFFIX,t.kelkoogroup.net
 DOMAIN-SUFFIX,kelris.pw
 DOMAIN-SUFFIX,kenvam.online
 DOMAIN-SUFFIX,ketaoke.com
@@ -4549,7 +4553,6 @@ DOMAIN-SUFFIX,metrics-api.librato.com
 DOMAIN-SUFFIX,libreriamedina.com
 DOMAIN-SUFFIX,eventapi.libring.com
 DOMAIN-SUFFIX,flashstats.libsyn.com
-DOMAIN-SUFFIX,m.liewen.cc
 DOMAIN-SUFFIX,life.ru
 DOMAIN-SUFFIX,agg.lifedaily.com
 DOMAIN-SUFFIX,mms.lifehacker.com
@@ -5050,6 +5053,7 @@ DOMAIN-SUFFIX,muqsad.xyz
 DOMAIN-SUFFIX,mushan.xin
 DOMAIN-SUFFIX,tracking.musixmatch.com
 DOMAIN-SUFFIX,muusn.cn
+DOMAIN-SUFFIX,ad.muyang888.top
 DOMAIN-SUFFIX,m.muyuge.com
 DOMAIN-SUFFIX,datadog-service.mvfglobal.com
 DOMAIN-SUFFIX,px.mvfglobal.com
@@ -5320,6 +5324,7 @@ DOMAIN-SUFFIX,nthtcs.com
 DOMAIN-SUFFIX,ntpddq.com
 DOMAIN-SUFFIX,ntxiangtai.com
 DOMAIN-SUFFIX,nunc-china.com
+DOMAIN-SUFFIX,nuonuo1.icu
 DOMAIN-SUFFIX,nupoot.com
 DOMAIN-SUFFIX,ptracker.nurturehq.com
 DOMAIN-SUFFIX,beacon.nuskin.com
@@ -8641,6 +8646,7 @@ IP-CIDR,58.215.179.159/32,no-resolve
 IP-CIDR,60.190.139.164/32,no-resolve
 IP-CIDR,61.152.223.15/32,no-resolve
 IP-CIDR,61.174.50.211/32,no-resolve
+IP-CIDR,66.212.56.229/32,no-resolve
 IP-CIDR,69.28.57.245/32,no-resolve
 IP-CIDR,74.117.182.77/32,no-resolve
 IP-CIDR,78.140.131.214/32,no-resolve
