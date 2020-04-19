@@ -17,7 +17,7 @@ class AdblockPlus2Lists(object):
     def __init__(self, rules: Rules, ignore_path: bool = False):
         self.rules = rules
         self.__ignore_path = ignore_path
-        tld.utils.update_tld_names()
+        tld.utils.update_tld_names(fail_silently=True)
 
     def convert(self) -> Result:
         print("conversion begins")
