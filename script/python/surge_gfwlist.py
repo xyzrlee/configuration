@@ -1,4 +1,5 @@
 import getopt
+import os
 import sys
 
 from adblockplus2lists import AdblockPlus2Lists, Result, Rules
@@ -6,9 +7,10 @@ from adblockplus2lists import AdblockPlus2Lists, Result, Rules
 
 def main(argv) -> None:
     output_file = None
+    type = "list"
     rules = Rules()
     opts, args = getopt.getopt(argv, "", [
-        "output-file=", "abp-rule=", "abp-rule-base64="
+        "output-file=", "abp-rule=", "abp-rule-base64=", "type="
     ])
     for opt, arg in opts:
         if opt == "--output-file":
@@ -17,13 +19,16 @@ def main(argv) -> None:
             rules.add(arg)
         elif opt == "--abp-rule-base64":
             rules.add(arg, is_base64=True)
+        elif opt == "--type":
+            type = arg
     obj = AdblockPlus2Lists(rules, ignore_path=True)
     result: Result = obj.convert()
-    if output_file:
-        with open(output_file, "w") as ouf:
+    print("%s" % os.path.abspath(output_file))
+    with open(output_file, "w") as ouf:
+        if type == "list":
             result.write_surge(file=ouf)
-    else:
-        result.write_surge()
+        elif type == "set":
+            result.write_surge_domain_set(file=ouf)
     result.print_statistics()
 
 
