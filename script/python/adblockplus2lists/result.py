@@ -76,6 +76,14 @@ class Result(object):
         for d in x:
             print(".%s" % d, file=out)
 
+    def write_surge_domain_set(self, file=sys.stdout):
+        out = file
+        if not file: out = sys.stdout
+        for dom in self.domain:
+            print("%s" % dom, file=out)
+        for dom in self.domain_suffix:
+            print(".%s" % dom, file=out)
+
     @property
     def domain(self) -> MutableSet:
         return self.__domain
