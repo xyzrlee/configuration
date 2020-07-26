@@ -1,4 +1,4 @@
-{+forward-override{forward-socks5 127.0.0.1:1080 .}}
+{+forward-override{forward-socks5 ss-local:1080 .}}
 14.102.250.18
 14.102.250.19
 50.7.31.230

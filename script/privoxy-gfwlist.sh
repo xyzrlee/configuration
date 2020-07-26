@@ -15,7 +15,7 @@ mkdir -p ../auto/privoxy
 python3 python/privoxy_gfwlist.py \
   --output-file="../auto/privoxy/gfwlist.action" \
   --forward="socks5" \
-  --proxy="127.0.0.1:1080" \
+  --proxy="ss-local:1080" \
   --abp-rule-base64="https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt"
 
 deactivate
