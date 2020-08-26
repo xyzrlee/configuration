@@ -1,5 +1,6 @@
+os: linux
 dist: bionic
-language: minimal
+language: shell
 
 install:
     - sudo apt-get update
@@ -18,11 +19,12 @@ script:
     - script/dnsmasq-china-domains.sh
 
 deploy:
+    strategy: git
     provider: pages
-    skip-cleanup: true
-    target-branch: gh-pages
-    github-token: $GITHUB_TOKEN
-    keep-history: true
+    skip_cleanup: true
+    target_branch: gh-pages
+    token: $GITHUB_TOKEN
+    keep_history: true
     verbose: true
     on:
         branch: master
