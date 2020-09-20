@@ -775,6 +775,7 @@ DOMAIN-SUFFIX,archive.fo
 DOMAIN-SUFFIX,archive.is
 DOMAIN-SUFFIX,archive.li
 DOMAIN-SUFFIX,archive.org
+DOMAIN-SUFFIX,archive.ph
 DOMAIN-SUFFIX,archive.today
 DOMAIN-SUFFIX,archiveofourown.com
 DOMAIN-SUFFIX,archiveofourown.org
@@ -1654,6 +1655,7 @@ DOMAIN-SUFFIX,dtiblog.com
 DOMAIN-SUFFIX,dtic.mil
 DOMAIN-SUFFIX,dtwang.org
 DOMAIN-SUFFIX,duanzhihu.com
+DOMAIN-SUFFIX,dubox.com
 DOMAIN-SUFFIX,duck.com
 DOMAIN-SUFFIX,duckdns.org
 DOMAIN-SUFFIX,duckduckgo.com
@@ -2221,6 +2223,7 @@ DOMAIN-SUFFIX,girlbanker.com
 DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,gizlen.net
 DOMAIN-SUFFIX,gjczz.com
@@ -2545,6 +2548,7 @@ DOMAIN-SUFFIX,hkci.org.hk
 DOMAIN-SUFFIX,hkcmi.edu
 DOMAIN-SUFFIX,hkcnews.com
 DOMAIN-SUFFIX,hkcoc.com
+DOMAIN-SUFFIX,hkctu.org.hk
 DOMAIN-SUFFIX,hkdailynews.com.hk
 DOMAIN-SUFFIX,hkday.net
 DOMAIN-SUFFIX,hkdf.org
@@ -3340,6 +3344,7 @@ DOMAIN-SUFFIX,minzhuzhongguo.org
 DOMAIN-SUFFIX,miroguide.com
 DOMAIN-SUFFIX,mirrorbooks.com
 DOMAIN-SUFFIX,mist.vip
+DOMAIN-SUFFIX,scratch.mit.edu
 DOMAIN-SUFFIX,thecenter.mit.edu
 DOMAIN-SUFFIX,mitao.com.tw
 DOMAIN-SUFFIX,mitbbs.com
@@ -3413,6 +3418,7 @@ DOMAIN-SUFFIX,news.msn.com.tw
 DOMAIN-SUFFIX,mswe1.org
 DOMAIN-SUFFIX,mthruf.com
 DOMAIN-SUFFIX,mtw.tl
+DOMAIN-SUFFIX,mubi.com
 DOMAIN-SUFFIX,muchosucko.com
 DOMAIN-SUFFIX,mullvad.net
 DOMAIN-SUFFIX,multiply.com
@@ -3750,6 +3756,7 @@ DOMAIN-SUFFIX,opendn.xyz
 DOMAIN-SUFFIX,openervpn.in
 DOMAIN-SUFFIX,openid.net
 DOMAIN-SUFFIX,openleaks.org
+DOMAIN-SUFFIX,opensource.google
 DOMAIN-SUFFIX,openvpn.net
 DOMAIN-SUFFIX,openvpn.org
 DOMAIN-SUFFIX,openwebster.com
@@ -4012,6 +4019,7 @@ DOMAIN-SUFFIX,proyectoclubes.com
 DOMAIN-SUFFIX,prozz.net
 DOMAIN-SUFFIX,psblog.name
 DOMAIN-SUFFIX,pscp.tv
+DOMAIN-SUFFIX,pshvpn.com
 DOMAIN-SUFFIX,psiphon.ca
 DOMAIN-SUFFIX,psiphon3.com
 DOMAIN-SUFFIX,psiphontoday.com
@@ -4119,6 +4127,7 @@ DOMAIN-SUFFIX,realcourage.org
 DOMAIN-SUFFIX,realitykings.com
 DOMAIN-SUFFIX,realraptalk.com
 DOMAIN-SUFFIX,realsexpass.com
+DOMAIN-SUFFIX,reason.com
 DOMAIN-SUFFIX,rebatesrule.net
 DOMAIN-SUFFIX,admin.recaptcha.net
 DOMAIN-SUFFIX,api.recaptcha.net
@@ -4702,6 +4711,7 @@ DOMAIN-SUFFIX,teddysun.com
 DOMAIN-SUFFIX,teeniefuck.net
 DOMAIN-SUFFIX,teensinasia.com
 DOMAIN-SUFFIX,telecomspace.com
+DOMAIN-SUFFIX,telegra.ph
 DOMAIN-SUFFIX,telegram.dog
 DOMAIN-SUFFIX,telegram.me
 DOMAIN-SUFFIX,telegram.org
@@ -5438,6 +5448,7 @@ DOMAIN-SUFFIX,wingamestore.com
 DOMAIN-SUFFIX,wingy.site
 DOMAIN-SUFFIX,winning11.com
 DOMAIN-SUFFIX,winwhispers.info
+DOMAIN-SUFFIX,wionews.com
 DOMAIN-SUFFIX,wire.com
 DOMAIN-SUFFIX,wiredbytes.com
 DOMAIN-SUFFIX,wiredpen.com
