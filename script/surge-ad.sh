@@ -19,10 +19,6 @@ python3 python/surge_ad.py \
   --abp-rule="https://easylist-downloads.adblockplus.org/easylistchina.txt" \
   --abp-rule="https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt" \
   --abp-rule="https://easylist-downloads.adblockplus.org/easyprivacy.txt" \
-  --abp-rule="https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt" \
-  --abp-rule="https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt" \
-  --abp-rule="https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/sections/mobile-app.txt" \
-  --abp-rule="https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/sections/popups.txt" \
   --type="list"
 
 python3 python/surge_ad.py \
@@ -31,10 +27,6 @@ python3 python/surge_ad.py \
   --abp-rule="https://easylist-downloads.adblockplus.org/easylistchina.txt" \
   --abp-rule="https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt" \
   --abp-rule="https://easylist-downloads.adblockplus.org/easyprivacy.txt" \
-  --abp-rule="https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt" \
-  --abp-rule="https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt" \
-  --abp-rule="https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/sections/mobile-app.txt" \
-  --abp-rule="https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/sections/popups.txt" \
   --type="set"
 
 deactivate

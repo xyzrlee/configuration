@@ -80,6 +80,8 @@ class AdblockPlus2Lists(object):
         t = re.sub(r"^https?://", "", t)
         t = t.lstrip("*.").rstrip("^/*")
         ur = urllib.parse.urlparse("http://" + t)
+        if ur.fragment:
+            return
         if ur.path and not self.ignore_path:
             return
         t = ur.netloc
