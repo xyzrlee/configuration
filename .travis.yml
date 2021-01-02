@@ -17,6 +17,7 @@ script:
   - script/privoxy-gfwlist.sh
   - script/chinadns-chnroute.sh
   - script/dnsmasq-china-domains.sh
+  - script/telegram-cidr.sh
 
 deploy:
   - strategy: git
