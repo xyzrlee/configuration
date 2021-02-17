@@ -50,3 +50,7 @@ DOMAIN-SUFFIX,pinterest.com
 DOMAIN-SUFFIX,pinterest.jp
 # 2ch
 DOMAIN-SUFFIX,5ch.net
+# clubhouse
+DOMAIN-SUFFIX,clubhouseapi.com
+# dcard
+DOMAIN-SUFFIX,dcard.tw
