@@ -1,19 +1,14 @@
 name: gh-pages
-
 on:
   push:
     branches: [ master ]
-
   workflow_dispatch:
-
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v2
-
-      # Runs a set of commands using the runners shell
+      - name: checkout
+        uses: actions/checkout@v2
       - name: build
         run: |
           chmod +x script/*.sh
@@ -29,5 +24,5 @@ jobs:
       - name: deploy-gh-pages
         uses: JamesIves/github-pages-deploy-action@4.0.0
         with:
-          branch: test-action
+          branch: gh-pages
           folder: .
