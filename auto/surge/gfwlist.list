@@ -447,6 +447,7 @@ DOMAIN,zaobao.com.sg
 DOMAIN,zhenxiang.biz
 DOMAIN,zhongguorenquan.org
 DOMAIN,book.zi5.me
+DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,030buy.com
 DOMAIN-SUFFIX,0rz.tw
 DOMAIN-SUFFIX,1-apple.com.tw
@@ -601,6 +602,7 @@ DOMAIN-SUFFIX,activpn.com
 DOMAIN-SUFFIX,aculo.us
 DOMAIN-SUFFIX,adcex.com
 DOMAIN-SUFFIX,addictedtocoffee.de
+DOMAIN-SUFFIX,addyoutube.com
 DOMAIN-SUFFIX,adelaidebbs.com
 DOMAIN-SUFFIX,admob.com
 DOMAIN-SUFFIX,adpl.org.hk
@@ -701,6 +703,7 @@ DOMAIN-SUFFIX,amnyemachen.org
 DOMAIN-SUFFIX,amoiist.com
 DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,amtb-taipei.org
+DOMAIN-SUFFIX,anchor.fm
 DOMAIN-SUFFIX,anchorfree.com
 DOMAIN-SUFFIX,ancsconf.org
 DOMAIN-SUFFIX,andfaraway.net
@@ -715,7 +718,6 @@ DOMAIN-SUFFIX,angelfire.com
 DOMAIN-SUFFIX,angola.org
 DOMAIN-SUFFIX,angularjs.org
 DOMAIN-SUFFIX,animecrazy.net
-DOMAIN-SUFFIX,animeshippuuden.com
 DOMAIN-SUFFIX,aniscartujo.com
 DOMAIN-SUFFIX,annatam.com
 DOMAIN-SUFFIX,anobii.com
@@ -1564,8 +1566,8 @@ DOMAIN-SUFFIX,ddns.name
 DOMAIN-SUFFIX,ddns.us
 DOMAIN-SUFFIX,ddns.net
 DOMAIN-SUFFIX,de-sci.org
+DOMAIN-SUFFIX,deadline.com
 DOMAIN-SUFFIX,deaftone.com
-DOMAIN-SUFFIX,packages.debian.org
 DOMAIN-SUFFIX,debug.com
 DOMAIN-SUFFIX,decodet.co
 DOMAIN-SUFFIX,deepmind.com
@@ -4587,6 +4589,7 @@ DOMAIN-SUFFIX,sjrt.org
 DOMAIN-SUFFIX,sjum.cn
 DOMAIN-SUFFIX,sketchappsources.com
 DOMAIN-SUFFIX,skimtube.com
+DOMAIN-SUFFIX,lab.skk.moe
 DOMAIN-SUFFIX,skybet.com
 DOMAIN-SUFFIX,skyking.com.tw
 DOMAIN-SUFFIX,bbs.skykiwi.com
@@ -4670,6 +4673,7 @@ DOMAIN-SUFFIX,soundofhope.org
 DOMAIN-SUFFIX,soup.io
 DOMAIN-SUFFIX,soupofmedia.com
 DOMAIN-SUFFIX,sourcewadio.com
+DOMAIN-SUFFIX,south-plus.org
 DOMAIN-SUFFIX,southnews.com.tw
 DOMAIN-SUFFIX,sowers.org.hk
 DOMAIN-SUFFIX,wlx.sowiki.net
