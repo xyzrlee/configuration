@@ -27,6 +27,7 @@ DOMAIN-SUFFIX,ctrmi.com
 DOMAIN-SUFFIX,da.hunantv.com
 DOMAIN-SUFFIX,da.mgtv.com
 DOMAIN-SUFFIX,data.video.qiyi.com
+DOMAIN-SUFFIX,dm.bytedance.com
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,emoticon.sns.iqiyi.com
 DOMAIN-SUFFIX,feih.com.cn
@@ -58,6 +59,7 @@ DOMAIN-SUFFIX,moatads.com
 DOMAIN-SUFFIX,mopub.com
 DOMAIN-SUFFIX,msg.71.am
 DOMAIN-SUFFIX,msga.cupid.iqiyi.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
 DOMAIN-SUFFIX,paopao.iqiyi.com
 DOMAIN-SUFFIX,policy.video.iqiyi.com
 DOMAIN-SUFFIX,qchannel01.cn
@@ -69,8 +71,8 @@ DOMAIN-SUFFIX,taboola.com.cn
 DOMAIN-SUFFIX,tanx.com
 DOMAIN-SUFFIX,tuanxue360.net
 DOMAIN-SUFFIX,umeng.com,DIRECT
-DOMAIN-SUFFIX,umengcloud.com,DIRECT
 DOMAIN-SUFFIX,umengcloud.com
+DOMAIN-SUFFIX,umengcloud.com,DIRECT
 DOMAIN-SUFFIX,webp2p.letv.com
 DOMAIN,ad-cn.jovcloud.com
 DOMAIN,ad.12306.cn
@@ -98,7 +100,9 @@ DOMAIN,apoll.m.taobao.com
 DOMAIN,ark.letv.com
 DOMAIN,asimgs.pplive.cn
 DOMAIN,cdn.segment.com
+DOMAIN,cheetah.mucang.cn
 DOMAIN,data.vod.itc.cn
+DOMAIN,dm-hl.toutiao.com
 DOMAIN,g3.letv.com
 DOMAIN,ggs.myzaker.com
 DOMAIN,hm.baidu.com
@@ -130,6 +134,7 @@ DOMAIN,static.jpush.cn
 DOMAIN,static.ws.126.net
 DOMAIN,sugar.zhihu.com
 DOMAIN,sv.map.baidu.com
+DOMAIN,track.midway.run
 DOMAIN,ulog.imap.baidu.com
 DOMAIN,unionsug.baidu.com
 DOMAIN,v1.log.moji.com
