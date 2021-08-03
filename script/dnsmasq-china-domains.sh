@@ -13,6 +13,7 @@ pushd ${DIR}
 make SERVER=114.114.114.114 dnsmasq
 popd
 mkdir -p auto/dnsmasq
-cp ${DIR}/accelerated-domains.china.dnsmasq.conf auto/dnsmasq/china-domains.conf
+grep -Pv "[^\x00-\x7F]" ${DIR}/accelerated-domains.china.dnsmasq.conf > auto/dnsmasq/china-domains.conf
+#cp ${DIR}/accelerated-domains.china.dnsmasq.conf auto/dnsmasq/china-domains.conf
 
 popd
