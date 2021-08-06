@@ -15,16 +15,8 @@ jobs:
         uses: actions/checkout@v2
       - name: build
         run: |
-          chmod +x script/*.sh
-          script/venv.sh
-          script/gitignore.sh
-          script/surge-ad.sh
-          script/surge-gfwlist.sh
-          script/dnscrypt-proxy-forwarding.sh
-          script/privoxy-gfwlist.sh
-          script/chinadns-chnroute.sh
-          script/dnsmasq-china-domains.sh
-          script/telegram-cidr.sh
+          chmod +x script/build.sh
+          script/build.sh
       - name: deploy-gh-pages
         uses: JamesIves/github-pages-deploy-action@4.0.0
         with:
