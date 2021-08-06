@@ -17,6 +17,8 @@ jobs:
         run: |
           chmod +x script/build.sh
           script/build.sh
+          chmod +x script/gitignore.sh
+          script/gitignore.sh
       - name: deploy-gh-pages
         uses: JamesIves/github-pages-deploy-action@4.0.0
         with:
