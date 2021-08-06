@@ -8,7 +8,6 @@ pushd ${script_path}
 chmod +x *.sh
 
 ./venv.sh
-./gitignore.sh
 ./surge-ad.sh
 ./surge-gfwlist.sh
 ./dnscrypt-proxy-forwarding.sh
