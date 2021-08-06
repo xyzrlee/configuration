@@ -5,6 +5,8 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 16 * * *'
+  repository_dispatch:
+    types: ['gh-pages']
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -13,16 +15,10 @@ jobs:
         uses: actions/checkout@v2
       - name: build
         run: |
-          chmod +x script/*.sh
-          script/venv.sh
+          chmod +x script/build.sh
+          script/build.sh
+          chmod +x script/gitignore.sh
           script/gitignore.sh
-          script/surge-ad.sh
-          script/surge-gfwlist.sh
-          script/dnscrypt-proxy-forwarding.sh
-          script/privoxy-gfwlist.sh
-          script/chinadns-chnroute.sh
-          script/dnsmasq-china-domains.sh
-          script/telegram-cidr.sh
       - name: deploy-gh-pages
         uses: JamesIves/github-pages-deploy-action@4.0.0
         with:
