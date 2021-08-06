@@ -1,0 +1,17 @@
+name: build
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+  repository_dispatch:
+    types: ['build']
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+      - name: build
+        run: |
+          chmod +x script/build.sh
+          script/build.sh
