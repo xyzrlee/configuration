@@ -5,6 +5,8 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 16 * * *'
+  repository_dispatch:
+    types: ['gh-pages']
 jobs:
   build:
     runs-on: ubuntu-latest
