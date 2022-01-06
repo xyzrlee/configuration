@@ -52,6 +52,12 @@ DOMAIN-SUFFIX,curseapp.net
 DOMAIN-SUFFIX,cursecdn.com
 DOMAIN-SUFFIX,dcard.tw
 DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,discord.com,Proxy
+DOMAIN-SUFFIX,discord.com,Proxy
+DOMAIN-SUFFIX,discord.gg,Proxy
+DOMAIN-SUFFIX,discord.media,Proxy
+DOMAIN-SUFFIX,discordapp.com,Proxy
+DOMAIN-SUFFIX,discordapp.net,Proxy
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,doub.io
 DOMAIN-SUFFIX,drivecdn.com
@@ -85,10 +91,13 @@ DOMAIN-SUFFIX,fw.cm
 DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,gamepedia.com
 DOMAIN-SUFFIX,gamer.com.tw
+DOMAIN-SUFFIX,gcr.io,Proxy
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,ghcr.io
+DOMAIN-SUFFIX,ghcr.io,Proxy
 DOMAIN-SUFFIX,git.kernel.org
 DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.community
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubusercontent.com
@@ -328,6 +337,7 @@ DOMAIN-SUFFIX,itunes.com
 DOMAIN-SUFFIX,jetphotos.com
 DOMAIN-SUFFIX,jphub.net
 DOMAIN-SUFFIX,jwpcdn.com
+DOMAIN-SUFFIX,k8s.io,Proxy
 DOMAIN-SUFFIX,kapeli.com
 DOMAIN-SUFFIX,letscorp.net
 DOMAIN-SUFFIX,letsencrypt.org
@@ -400,6 +410,7 @@ DOMAIN-SUFFIX,rfa.org
 DOMAIN-SUFFIX,rfi.fr
 DOMAIN-SUFFIX,rsshub.app
 DOMAIN-SUFFIX,sankei.com
+DOMAIN-SUFFIX,sbcdnvideo.com,Proxy
 DOMAIN-SUFFIX,sbvideocdn.com
 DOMAIN-SUFFIX,simulationcraft.org
 DOMAIN-SUFFIX,sofree.cc
@@ -475,6 +486,7 @@ DOMAIN-SUFFIX,wireguard.com
 DOMAIN-SUFFIX,wireshark.org
 DOMAIN-SUFFIX,wsj.com
 DOMAIN-SUFFIX,wsj.net
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com,Proxy
 DOMAIN-SUFFIX,xuite.net
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,youtube-nocookie.com
