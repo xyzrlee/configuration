@@ -397,10 +397,7 @@ DOMAIN,uploaded.net
 DOMAIN,uploaded.to
 DOMAIN,upornia.com
 DOMAIN,tarr.uspto.gov
-DOMAIN,usunitednews.com
 DOMAIN,uyghur-j.org
-DOMAIN,uyghurpress.com
-DOMAIN,uyghurstudies.org
 DOMAIN,uymaarip.com
 DOMAIN,victimsofcommunism.org
 DOMAIN,www.lib.virginia.edu
@@ -3358,6 +3355,7 @@ DOMAIN-SUFFIX,makkahnewspaper.com
 DOMAIN-SUFFIX,malaysiakini.com
 DOMAIN-SUFFIX,mamingzhe.com
 DOMAIN-SUFFIX,manchukuo.net
+DOMAIN-SUFFIX,mandiant.com
 DOMAIN-SUFFIX,mangafox.com
 DOMAIN-SUFFIX,mangafox.me
 DOMAIN-SUFFIX,maniash.com
@@ -3903,6 +3901,7 @@ DOMAIN-SUFFIX,old-cat.net
 DOMAIN-SUFFIX,olevod.com
 DOMAIN-SUFFIX,olumpo.com
 DOMAIN-SUFFIX,olympicwatch.org
+DOMAIN-SUFFIX,omct.org
 DOMAIN-SUFFIX,omgili.com
 DOMAIN-SUFFIX,omni7.jp
 DOMAIN-SUFFIX,omnitalk.com
@@ -4445,6 +4444,7 @@ DOMAIN-SUFFIX,sacom.hk
 DOMAIN-SUFFIX,sadistic-v.com
 DOMAIN-SUFFIX,sadpanda.us
 DOMAIN-SUFFIX,safechat.com
+DOMAIN-SUFFIX,safeguarddefenders.com
 DOMAIN-SUFFIX,safervpn.com
 DOMAIN-SUFFIX,safety.google
 DOMAIN-SUFFIX,saintyculture.com
@@ -4885,6 +4885,7 @@ DOMAIN-SUFFIX,tagwalk.com
 DOMAIN-SUFFIX,tahr.org.tw
 DOMAIN-SUFFIX,taipei.gov.tw
 DOMAIN-SUFFIX,taipeisociety.org
+DOMAIN-SUFFIX,taipeitimes.com
 DOMAIN-SUFFIX,taiwan-sex.com
 DOMAIN-SUFFIX,taiwanbible.com
 DOMAIN-SUFFIX,taiwancon.com
@@ -5449,7 +5450,6 @@ DOMAIN-SUFFIX,usocctn.com
 DOMAIN-SUFFIX,tsdr.uspto.gov
 DOMAIN-SUFFIX,ustibetcommittee.org
 DOMAIN-SUFFIX,ustream.tv
-DOMAIN-SUFFIX,usunitednews.com
 DOMAIN-SUFFIX,usus.cc
 DOMAIN-SUFFIX,utopianpal.com
 DOMAIN-SUFFIX,uu-gg.com
@@ -5461,12 +5461,12 @@ DOMAIN-SUFFIX,uyghur.co.uk
 DOMAIN-SUFFIX,uyghuraa.org
 DOMAIN-SUFFIX,uyghuramerican.org
 DOMAIN-SUFFIX,uyghurbiz.org
-DOMAIN-SUFFIX,uyghurcanadiansociety.org
+DOMAIN-SUFFIX,uyghurcanadian.ca
 DOMAIN-SUFFIX,uyghurcongress.org
-DOMAIN-SUFFIX,uyghurensemble.co.uk
 DOMAIN-SUFFIX,uyghurpen.org
 DOMAIN-SUFFIX,uyghurpress.com
 DOMAIN-SUFFIX,uyghurstudies.org
+DOMAIN-SUFFIX,uyghurtribunal.com
 DOMAIN-SUFFIX,uygur.org
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,v2fly.org
@@ -5878,6 +5878,7 @@ DOMAIN-SUFFIX,xm.com
 DOMAIN-SUFFIX,xml-training-guide.com
 DOMAIN-SUFFIX,xmovies.com
 DOMAIN-SUFFIX,xn--4gq171p.com
+DOMAIN-SUFFIX,xn--9pr62r24a.com
 DOMAIN-SUFFIX,xn--czq75pvv1aj5c.org
 DOMAIN-SUFFIX,xn--i2ru8q2qg.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
