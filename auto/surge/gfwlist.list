@@ -107,7 +107,6 @@ DOMAIN,www.eastturkistan.net
 DOMAIN,efukt.com
 DOMAIN,emule-ed2k.com
 DOMAIN,emulefans.com
-DOMAIN,epochhk.com
 DOMAIN,erktv.com
 DOMAIN,eromon.net
 DOMAIN,evschool.net
@@ -241,11 +240,6 @@ DOMAIN,martsangkagyuofficial.org
 DOMAIN,mash.to
 DOMAIN,maturejp.com
 DOMAIN,mcaf.ee
-DOMAIN,mercyprophet.org
-DOMAIN,meridian-trust.org
-DOMAIN,meripet.biz
-DOMAIN,meripet.com
-DOMAIN,www.metro.taipei
 DOMAIN,metroradio.com.hk
 DOMAIN,michaelanti.com
 DOMAIN,microvpn.com
@@ -2357,6 +2351,7 @@ DOMAIN-SUFFIX,gongmeng.info
 DOMAIN-SUFFIX,gongminliliang.com
 DOMAIN-SUFFIX,gongwt.com
 DOMAIN-SUFFIX,goo.gl
+DOMAIN-SUFFIX,goo.gle
 DOMAIN-SUFFIX,goo.ne.jp
 DOMAIN-SUFFIX,blog.goo.ne.jp
 DOMAIN-SUFFIX,gooday.xyz
@@ -3047,12 +3042,14 @@ DOMAIN-SUFFIX,sunwinism.joinbbs.net
 DOMAIN-SUFFIX,joinclubhouse.com
 DOMAIN-SUFFIX,joinmastodon.org
 DOMAIN-SUFFIX,tv.jtbc.joins.com
+DOMAIN-SUFFIX,jornaldacidadeonline.com.br
 DOMAIN-SUFFIX,journalchretien.net
 DOMAIN-SUFFIX,journalofdemocracy.org
 DOMAIN-SUFFIX,joymiihub.com
 DOMAIN-SUFFIX,joyourself.com
 DOMAIN-SUFFIX,jpopforum.net
 DOMAIN-SUFFIX,wiki.jqueryui.com
+DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,fiddle.jshell.net
 DOMAIN-SUFFIX,jtvnw.net
 DOMAIN-SUFFIX,jubushoushen.com
@@ -3419,7 +3416,8 @@ DOMAIN-SUFFIX,megaproxy.com
 DOMAIN-SUFFIX,megarotic.com
 DOMAIN-SUFFIX,megavideo.com
 DOMAIN-SUFFIX,megurineluka.com
-DOMAIN-SUFFIX,meirixiaochao.com
+DOMAIN-SUFFIX,meizhong.blog
+DOMAIN-SUFFIX,meizhong.report
 DOMAIN-SUFFIX,meltoday.com
 DOMAIN-SUFFIX,memehk.com
 DOMAIN-SUFFIX,memorybbs.com
@@ -3441,6 +3439,7 @@ DOMAIN-SUFFIX,metafilter.com
 DOMAIN-SUFFIX,metart.com
 DOMAIN-SUFFIX,metarthunter.com
 DOMAIN-SUFFIX,meteorshowersonline.com
+DOMAIN-SUFFIX,metro.taipei
 DOMAIN-SUFFIX,metrohk.com.hk
 DOMAIN-SUFFIX,metrolife.ca
 DOMAIN-SUFFIX,metroradio.com.hk
@@ -3706,6 +3705,7 @@ DOMAIN-SUFFIX,netflav.com
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,netflix.net
 DOMAIN-SUFFIX,netme.cc
+DOMAIN-SUFFIX,netsarang.com
 DOMAIN-SUFFIX,netsneak.com
 DOMAIN-SUFFIX,network54.com
 DOMAIN-SUFFIX,networkedblogs.com
@@ -3924,6 +3924,7 @@ DOMAIN-SUFFIX,onapp.com
 DOMAIN-SUFFIX,onedumb.com
 DOMAIN-SUFFIX,onejav.com
 DOMAIN-SUFFIX,onion.city
+DOMAIN-SUFFIX,onion.ly
 DOMAIN-SUFFIX,onlinecha.com
 DOMAIN-SUFFIX,onlineyoutube.com
 DOMAIN-SUFFIX,onlygayvideo.com
@@ -3960,6 +3961,7 @@ DOMAIN-SUFFIX,organharvestinvestigation.net
 DOMAIN-SUFFIX,organiccrap.com
 DOMAIN-SUFFIX,orgasm.com
 DOMAIN-SUFFIX,orgfree.com
+DOMAIN-SUFFIX,oricon.co.jp
 DOMAIN-SUFFIX,orient-doll.com
 DOMAIN-SUFFIX,orientaldaily.com.my
 DOMAIN-SUFFIX,orn.jp
@@ -3978,6 +3980,7 @@ DOMAIN-SUFFIX,oursteps.com.au
 DOMAIN-SUFFIX,oursweb.net
 DOMAIN-SUFFIX,ourtv.hk
 DOMAIN-SUFFIX,xinqimeng.over-blog.com
+DOMAIN-SUFFIX,overcast.fm
 DOMAIN-SUFFIX,overdaily.org
 DOMAIN-SUFFIX,overplay.net
 DOMAIN-SUFFIX,share.ovi.com
@@ -4710,6 +4713,7 @@ DOMAIN-SUFFIX,sohfrance.org
 DOMAIN-SUFFIX,chinese.soifind.com
 DOMAIN-SUFFIX,sokamonline.com
 DOMAIN-SUFFIX,sokmil.com
+DOMAIN-SUFFIX,solana.com
 DOMAIN-SUFFIX,solidaritetibet.org
 DOMAIN-SUFFIX,solidfiles.com
 DOMAIN-SUFFIX,solv.finance
@@ -5006,6 +5010,7 @@ DOMAIN-SUFFIX,theconversation.com
 DOMAIN-SUFFIX,thedalailamamovie.com
 DOMAIN-SUFFIX,thediplomat.com
 DOMAIN-SUFFIX,thedw.us
+DOMAIN-SUFFIX,theepochtimes.com
 DOMAIN-SUFFIX,thefacebook.com
 DOMAIN-SUFFIX,thefrontier.hk
 DOMAIN-SUFFIX,thegay.com
@@ -5455,6 +5460,7 @@ DOMAIN-SUFFIX,us.to
 DOMAIN-SUFFIX,usacn.com
 DOMAIN-SUFFIX,usaip.eu
 DOMAIN-SUFFIX,dalailama.usc.edu
+DOMAIN-SUFFIX,uscnpm.org
 DOMAIN-SUFFIX,iipdigital.usembassy.gov
 DOMAIN-SUFFIX,usfk.mil
 DOMAIN-SUFFIX,usma.edu
@@ -5800,6 +5806,7 @@ DOMAIN-SUFFIX,xijie.wordpress.com
 DOMAIN-SUFFIX,workatruna.com
 DOMAIN-SUFFIX,workerdemo.org.hk
 DOMAIN-SUFFIX,workerempowerment.org
+DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,workersthebig.net
 DOMAIN-SUFFIX,blog.workflow.is
 DOMAIN-SUFFIX,worldcat.org
