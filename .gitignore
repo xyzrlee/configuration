@@ -2,3 +2,4 @@
 .vscode
 auto
 venv
+.DS_Store
