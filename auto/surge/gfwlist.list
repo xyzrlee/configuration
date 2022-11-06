@@ -300,7 +300,6 @@ DOMAIN,online.recoveryversion.org
 DOMAIN,redchinacn.net
 DOMAIN,redditlist.com
 DOMAIN,certificate.revocationcheck.com
-DOMAIN,rfi.my
 DOMAIN,vds.rightster.com
 DOMAIN,riseup.net
 DOMAIN,www2.rocketbbs.com
@@ -2709,6 +2708,7 @@ DOMAIN-SUFFIX,hopto.org
 DOMAIN-SUFFIX,hornygamer.com
 DOMAIN-SUFFIX,hornytrip.com
 DOMAIN-SUFFIX,horrorporn.com
+DOMAIN-SUFFIX,hostloc.com
 DOMAIN-SUFFIX,hotair.com
 DOMAIN-SUFFIX,hotav.tv
 DOMAIN-SUFFIX,hotels.cn
@@ -4409,6 +4409,7 @@ DOMAIN-SUFFIX,rfamobile.org
 DOMAIN-SUFFIX,rfaweb.org
 DOMAIN-SUFFIX,rferl.org
 DOMAIN-SUFFIX,rfi.fr
+DOMAIN-SUFFIX,rfi.my
 DOMAIN-SUFFIX,rightbtc.com
 DOMAIN-SUFFIX,rigpa.org
 DOMAIN-SUFFIX,riku.me
@@ -4418,6 +4419,7 @@ DOMAIN-SUFFIX,ritter.vg
 DOMAIN-SUFFIX,rixcloud.com
 DOMAIN-SUFFIX,rixcloud.us
 DOMAIN-SUFFIX,rlwlw.com
+DOMAIN-SUFFIX,rmbl.ws
 DOMAIN-SUFFIX,rmjdw.com
 DOMAIN-SUFFIX,rmjdw132.info
 DOMAIN-SUFFIX,roadshow.hk
@@ -4449,6 +4451,7 @@ DOMAIN-SUFFIX,rtycminnesota.org
 DOMAIN-SUFFIX,ruanyifeng.com
 DOMAIN-SUFFIX,rukor.org
 DOMAIN-SUFFIX,rule34.xxx
+DOMAIN-SUFFIX,rumble.com
 DOMAIN-SUFFIX,runbtx.com
 DOMAIN-SUFFIX,rushbee.com
 DOMAIN-SUFFIX,rusvpn.com
