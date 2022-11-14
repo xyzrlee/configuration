@@ -44,8 +44,6 @@ DOMAIN,bit.do
 DOMAIN,bit.ly
 DOMAIN,blog.jp
 DOMAIN,blogtd.org
-DOMAIN,btdigg.org
-DOMAIN,buffered.com
 DOMAIN,busayari.com
 DOMAIN,www.businessinsider.com.au
 DOMAIN,busu.org
@@ -1070,13 +1068,14 @@ DOMAIN-SUFFIX,btbtav.com
 DOMAIN-SUFFIX,btc98.com
 DOMAIN-SUFFIX,btcbank.bank
 DOMAIN-SUFFIX,btctrade.im
+DOMAIN-SUFFIX,btdig.com
+DOMAIN-SUFFIX,btdigg.org
 DOMAIN-SUFFIX,btku.me
 DOMAIN-SUFFIX,btku.org
 DOMAIN-SUFFIX,btspread.com
 DOMAIN-SUFFIX,btsynckeys.com
 DOMAIN-SUFFIX,budaedu.org
 DOMAIN-SUFFIX,buddhanet.com.tw
-DOMAIN-SUFFIX,buddhistchannel.tv
 DOMAIN-SUFFIX,buffered.com
 DOMAIN-SUFFIX,bullguard.com
 DOMAIN-SUFFIX,bullog.org
@@ -3959,6 +3958,7 @@ DOMAIN-SUFFIX,openid.net
 DOMAIN-SUFFIX,openleaks.org
 DOMAIN-SUFFIX,opensea.io
 DOMAIN-SUFFIX,opensource.google
+DOMAIN-SUFFIX,openstreetmap.org
 DOMAIN-SUFFIX,opentech.fund
 DOMAIN-SUFFIX,openvpn.net
 DOMAIN-SUFFIX,openvpn.org
