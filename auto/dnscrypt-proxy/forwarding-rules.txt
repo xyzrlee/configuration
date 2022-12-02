@@ -65146,6 +65146,7 @@ ocsp.apple.com  223.5.5.5 223.6.6.6 119.29.29.29
 ocsp2.apple.com  223.5.5.5 223.6.6.6 119.29.29.29
 oscdn.apple.com  223.5.5.5 223.6.6.6 119.29.29.29
 oscdn.origin-apple.com.akadns.net  223.5.5.5 223.6.6.6 119.29.29.29
+osxapps.itunes.g.aaplimg.com  223.5.5.5 223.6.6.6 119.29.29.29
 pancake.apple.com  223.5.5.5 223.6.6.6 119.29.29.29
 pancake.cdn-apple.com.akadns.net  223.5.5.5 223.6.6.6 119.29.29.29
 prod-support.apple-support.akadns.net  223.5.5.5 223.6.6.6 119.29.29.29
@@ -65163,6 +65164,7 @@ store.storeimages.cdn-apple.com  223.5.5.5 223.6.6.6 119.29.29.29
 support-china.apple-support.akadns.net  223.5.5.5 223.6.6.6 119.29.29.29
 support.apple.com  223.5.5.5 223.6.6.6 119.29.29.29
 swallow.apple.com  223.5.5.5 223.6.6.6 119.29.29.29
+swallow-apple-com.v.aaplimg.com  223.5.5.5 223.6.6.6 119.29.29.29
 swcatalog-cdn.apple.com.akadns.net  223.5.5.5 223.6.6.6 119.29.29.29
 swcatalog.apple.com  223.5.5.5 223.6.6.6 119.29.29.29
 swcdn.apple.com  223.5.5.5 223.6.6.6 119.29.29.29
