@@ -197,7 +197,6 @@ DOMAIN,imgchili.net
 DOMAIN,imgmega.com
 DOMAIN,tech2.in.com
 DOMAIN,insecam.org
-DOMAIN,internet.org
 DOMAIN,iportal.me
 DOMAIN,islam.org.hk
 DOMAIN,itweet.net
@@ -291,7 +290,6 @@ DOMAIN,blog.ranxiang.com
 DOMAIN,rapidgator.net
 DOMAIN,raremovie.cc
 DOMAIN,raremovie.net
-DOMAIN,raw.githubusercontent.com
 DOMAIN,readydown.com
 DOMAIN,online.recoveryversion.org
 DOMAIN,redchinacn.net
@@ -319,7 +317,6 @@ DOMAIN,socrec.org
 DOMAIN,soubory.com
 DOMAIN,sourceforge.net
 DOMAIN,blog.soylent.com
-DOMAIN,spring4u.info
 DOMAIN,ssglobal.co
 DOMAIN,sspro.ml
 DOMAIN,stackoverflow.com
@@ -2900,6 +2897,8 @@ DOMAIN-SUFFIX,insidevoa.com
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,instanthq.com
 DOMAIN-SUFFIX,institut-tibetain.org
+DOMAIN-SUFFIX,interactivebrokers.com
+DOMAIN-SUFFIX,internet.org
 DOMAIN-SUFFIX,internetdefenseleague.org
 DOMAIN-SUFFIX,internetfreedom.org
 DOMAIN-SUFFIX,internetpopculture.com
@@ -3961,6 +3960,7 @@ DOMAIN-SUFFIX,onthehunt.com
 DOMAIN-SUFFIX,ontrac.com
 DOMAIN-SUFFIX,oopsforum.com
 DOMAIN-SUFFIX,open.com.hk
+DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openallweb.com
 DOMAIN-SUFFIX,opendemocracy.net
 DOMAIN-SUFFIX,opendn.xyz
@@ -4791,6 +4791,7 @@ DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,spreadshirt.es
 DOMAIN-SUFFIX,spring4u.info
 DOMAIN-SUFFIX,springboardplatform.com
+DOMAIN-SUFFIX,springwood.me
 DOMAIN-SUFFIX,sprite.org
 DOMAIN-SUFFIX,sproutcore.com
 DOMAIN-SUFFIX,sproxy.info
@@ -5077,6 +5078,7 @@ DOMAIN-SUFFIX,thisav.com
 DOMAIN-SUFFIX,thlib.org
 DOMAIN-SUFFIX,thomasbernhard.org
 DOMAIN-SUFFIX,thongdreams.com
+DOMAIN-SUFFIX,threadreaderapp.com
 DOMAIN-SUFFIX,threatchaos.com
 DOMAIN-SUFFIX,throughnightsfire.com
 DOMAIN-SUFFIX,thumbzilla.com
@@ -6048,6 +6050,7 @@ DOMAIN-SUFFIX,yolasite.com
 DOMAIN-SUFFIX,yomiuri.co.jp
 DOMAIN-SUFFIX,yong.hu
 DOMAIN-SUFFIX,yorkbbs.ca
+DOMAIN-SUFFIX,you.com
 DOMAIN-SUFFIX,you-get.org
 DOMAIN-SUFFIX,youdontcare.com
 DOMAIN-SUFFIX,youjizz.com
