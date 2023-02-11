@@ -554,6 +554,7 @@ DOMAIN-SUFFIX,abc.xyz
 DOMAIN-SUFFIX,abchinese.com
 DOMAIN-SUFFIX,abclite.net
 DOMAIN-SUFFIX,abebooks.com
+DOMAIN-SUFFIX,abematv.akamaized.net
 DOMAIN-SUFFIX,ablwang.com
 DOMAIN-SUFFIX,aboluowang.com
 DOMAIN-SUFFIX,about.google
@@ -613,13 +614,8 @@ DOMAIN-SUFFIX,aiweiwei.com
 DOMAIN-SUFFIX,aiweiweiblog.com
 DOMAIN-SUFFIX,www.ajsands.com
 DOMAIN-SUFFIX,akademiye.org
-DOMAIN-SUFFIX,a248.e.akamai.net
-DOMAIN-SUFFIX,rthklive2-lh.akamaihd.net
 DOMAIN-SUFFIX,rfalive1.akacast.akamaistream.net
 DOMAIN-SUFFIX,voa-11.akacast.akamaistream.net
-DOMAIN-SUFFIX,abematv.akamaized.net
-DOMAIN-SUFFIX,linear-abematv.akamaized.net
-DOMAIN-SUFFIX,vod-abematv.akamaized.net
 DOMAIN-SUFFIX,akiba-online.com
 DOMAIN-SUFFIX,akiba-web.com
 DOMAIN-SUFFIX,akow.org
@@ -1737,6 +1733,7 @@ DOMAIN-SUFFIX,dynu.com
 DOMAIN-SUFFIX,dynu.net
 DOMAIN-SUFFIX,dysfz.cc
 DOMAIN-SUFFIX,dzze.com
+DOMAIN-SUFFIX,a248.e.akamai.net
 DOMAIN-SUFFIX,e-classical.com.tw
 DOMAIN-SUFFIX,e-gold.com
 DOMAIN-SUFFIX,e-hentai.org
@@ -3260,6 +3257,7 @@ DOMAIN-SUFFIX,limiao.net
 DOMAIN-SUFFIX,line.me
 DOMAIN-SUFFIX,line-apps.com
 DOMAIN-SUFFIX,line-scdn.net
+DOMAIN-SUFFIX,linear-abematv.akamaized.net
 DOMAIN-SUFFIX,linglingfa.com
 DOMAIN-SUFFIX,lingvodics.com
 DOMAIN-SUFFIX,link-o-rama.com
@@ -4457,6 +4455,7 @@ DOMAIN-SUFFIX,rssmeme.com
 DOMAIN-SUFFIX,rtalabel.org
 DOMAIN-SUFFIX,rthk.hk
 DOMAIN-SUFFIX,rthk.org.hk
+DOMAIN-SUFFIX,rthklive2-lh.akamaihd.net
 DOMAIN-SUFFIX,rti.org.tw
 DOMAIN-SUFFIX,rti.tw
 DOMAIN-SUFFIX,rtycminnesota.org
@@ -5599,6 +5598,7 @@ DOMAIN-SUFFIX,voatibetanenglish.com
 DOMAIN-SUFFIX,vocativ.com
 DOMAIN-SUFFIX,vocn.tv
 DOMAIN-SUFFIX,vocus.cc
+DOMAIN-SUFFIX,vod-abematv.akamaized.net
 DOMAIN-SUFFIX,voicettank.org
 DOMAIN-SUFFIX,vot.org
 DOMAIN-SUFFIX,vovo2000.com
