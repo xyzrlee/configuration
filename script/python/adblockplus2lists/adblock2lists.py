@@ -36,6 +36,8 @@ class AdblockPlus2Lists(object):
         return result
 
     def __do_convert(self, result: Result, rule: str, is_allow: bool = False) -> None:
+        if rule and rule.startswith('[') and rule.endswith(']'):
+            return
         abp_result = abp.filters.parse_line(rule)
         if isinstance(abp_result, EmptyLine):
             return
@@ -86,9 +88,9 @@ class AdblockPlus2Lists(object):
             return
         t = ur.netloc
         t = re.sub(r":\d{2,5}$", "", t)
-        if validators.ipv4(t) or validators.ipv4_cidr(t):
+        if validators.ipv4(t) or validators.ip_address.ipv4(t, cidr=True):
             result.add(result.ipv4_cidr, t, remove=is_allow)
-        elif validators.ipv6(t) or validators.ipv6_cidr(t):
+        elif validators.ipv6(t) or validators.ip_address.ipv6(t, cidr=True):
             result.add(result.ipv6_cidr, t, remove=is_allow)
         else:
             if validators.domain(t) and tld.get_fld(t, fail_silently=True, fix_protocol=True):
