@@ -50,12 +50,12 @@ class Result(object):
         for dom in self.domain_suffix:
             print("DOMAIN-SUFFIX,%s" % dom, file=out)
         for ip in self.ipv4_cidr:
-            if validators.ipv4_cidr(ip):
+            if validators.ip_address.ipv4(ip, cidr=True):
                 print("IP-CIDR,%s,no-resolve" % ip, file=out)
             else:
                 print("IP-CIDR,%s/32,no-resolve" % ip, file=out)
         for ip in self.ipv6_cidr:
-            if validators.ipv6_cidr(ip):
+            if validators.ip_address.ipv6(ip, cidr=True):
                 print("IP-CIDR6,%s,no-resolve" % ip, file=out)
             else:
                 print("IP-CIDR6,%s/128,no-resolve" % ip, file=out)
@@ -67,10 +67,10 @@ class Result(object):
         if not file: out = sys.stdout
         print("{+forward-override{forward-%s %s .}}" % (forward, proxy), file=out)
         for ip in self.ipv4_cidr:
-            if not validators.ipv4_cidr(ip):
+            if not validators.ip_address.ipv4(ip, cidr=True):
                 print("%s" % ip, file=out)
         for ip in self.ipv6_cidr:
-            if not validators.ipv6_cidr(ip):
+            if not validators.ip_address.ipv6(ip, cidr=True):
                 print("%s" % ip, file=out)
         x = SortedSet().union(self.domain).union(self.domain_suffix)
         for d in x:
