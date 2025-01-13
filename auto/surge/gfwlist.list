@@ -235,7 +235,6 @@ DOMAIN,minghui.or.kr
 DOMAIN,mingpaomonthly.com
 DOMAIN,moby.to
 DOMAIN,cosmic.monar.ch
-DOMAIN,money-link.com.tw
 DOMAIN,www.monlamit.org
 DOMAIN,motherless.com
 DOMAIN,mqxd.org
@@ -387,7 +386,6 @@ DOMAIN,xxxymovies.com
 DOMAIN,tw.answers.yahoo.com
 DOMAIN,yes-news.com
 DOMAIN,yeyeclub.com
-DOMAIN,zaobao.com.sg
 DOMAIN,zhenxiang.biz
 DOMAIN,zhongguorenquan.org
 DOMAIN,book.zi5.me
@@ -770,6 +768,7 @@ DOMAIN-SUFFIX,athenaeizou.com
 DOMAIN-SUFFIX,atlanta168.com
 DOMAIN-SUFFIX,atlaspost.com
 DOMAIN-SUFFIX,atnext.com
+DOMAIN-SUFFIX,audacy.com
 DOMAIN-SUFFIX,ice.audionow.com
 DOMAIN-SUFFIX,authorizeddns.net
 DOMAIN-SUFFIX,authorizeddns.org
@@ -1173,6 +1172,7 @@ DOMAIN-SUFFIX,cdp1998.org
 DOMAIN-SUFFIX,cdp2006.org
 DOMAIN-SUFFIX,cdpa.url.tw
 DOMAIN-SUFFIX,cdpeu.org
+DOMAIN-SUFFIX,cdpuk.co.uk
 DOMAIN-SUFFIX,cdpusa.org
 DOMAIN-SUFFIX,cdpweb.org
 DOMAIN-SUFFIX,cdpwu.org
@@ -2037,6 +2037,7 @@ DOMAIN-SUFFIX,firetweet.io
 DOMAIN-SUFFIX,firstfivefollowers.com
 DOMAIN-SUFFIX,firstpost.com
 DOMAIN-SUFFIX,firstrade.com
+DOMAIN-SUFFIX,fish.audio
 DOMAIN-SUFFIX,blog.fizzik.com
 DOMAIN-SUFFIX,flagsonline.it
 DOMAIN-SUFFIX,flecheinthepeche.fr
@@ -2897,6 +2898,7 @@ DOMAIN-SUFFIX,timesofindia.indiatimes.com
 DOMAIN-SUFFIX,indiemerch.com
 DOMAIN-SUFFIX,info-graf.fr
 DOMAIN-SUFFIX,website.informer.com
+DOMAIN-SUFFIX,inherit.live
 DOMAIN-SUFFIX,initiativesforchina.org
 DOMAIN-SUFFIX,inkbunny.net
 DOMAIN-SUFFIX,inkui.com
@@ -3528,6 +3530,7 @@ DOMAIN-SUFFIX,ministrybooks.org
 DOMAIN-SUFFIX,minzhuhua.net
 DOMAIN-SUFFIX,minzhuzhanxian.com
 DOMAIN-SUFFIX,minzhuzhongguo.org
+DOMAIN-SUFFIX,miraheze.org
 DOMAIN-SUFFIX,miroguide.com
 DOMAIN-SUFFIX,mirrorbooks.com
 DOMAIN-SUFFIX,mirrormedia.mg
@@ -3569,6 +3572,7 @@ DOMAIN-SUFFIX,mohu.rocks
 DOMAIN-SUFFIX,mojim.com
 DOMAIN-SUFFIX,mol.gov.tw
 DOMAIN-SUFFIX,molihua.org
+DOMAIN-SUFFIX,momoshop.com.tw
 DOMAIN-SUFFIX,mondex.org
 DOMAIN-SUFFIX,money-link.com.tw
 DOMAIN-SUFFIX,moneyhome.biz
@@ -4363,6 +4367,7 @@ DOMAIN-SUFFIX,r18.com
 DOMAIN-SUFFIX,radicalparty.org
 DOMAIN-SUFFIX,radio.garden
 DOMAIN-SUFFIX,radio-canada.ca
+DOMAIN-SUFFIX,radio-en-ligne.fr
 DOMAIN-SUFFIX,radioaustralia.net.au
 DOMAIN-SUFFIX,radiohilight.net
 DOMAIN-SUFFIX,radioline.co
@@ -4726,6 +4731,7 @@ DOMAIN-SUFFIX,slacker.com
 DOMAIN-SUFFIX,m.slandr.net
 DOMAIN-SUFFIX,slaytizle.com
 DOMAIN-SUFFIX,sleazydream.com
+DOMAIN-SUFFIX,sleazyfork.org
 DOMAIN-SUFFIX,slheng.com
 DOMAIN-SUFFIX,slickvpn.com
 DOMAIN-SUFFIX,slides.new
@@ -4825,6 +4831,7 @@ DOMAIN-SUFFIX,spike.com
 DOMAIN-SUFFIX,spotflux.com
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,spreadshirt.es
+DOMAIN-SUFFIX,spreaker.com
 DOMAIN-SUFFIX,spring4u.info
 DOMAIN-SUFFIX,springboardplatform.com
 DOMAIN-SUFFIX,springwood.me
@@ -5220,7 +5227,9 @@ DOMAIN-SUFFIX,tibetwrites.org
 DOMAIN-SUFFIX,ticket.com.tw
 DOMAIN-SUFFIX,tigervpn.com
 DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,tiktokcdn-us.com
 DOMAIN-SUFFIX,tiktokv.com
+DOMAIN-SUFFIX,tiktokv.us
 DOMAIN-SUFFIX,tiltbrush.com
 DOMAIN-SUFFIX,timdir.com
 DOMAIN-SUFFIX,time.com
@@ -6154,6 +6163,7 @@ DOMAIN-SUFFIX,yyii.org
 DOMAIN-SUFFIX,yyjlymb.xyz
 DOMAIN-SUFFIX,yysub.net
 DOMAIN-SUFFIX,yzzk.com
+DOMAIN-SUFFIX,z-lib.io
 DOMAIN-SUFFIX,z-lib.org
 DOMAIN-SUFFIX,zacebook.com
 DOMAIN-SUFFIX,zalmos.com
