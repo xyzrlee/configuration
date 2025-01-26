@@ -5886,6 +5886,8 @@ DOMAIN-SUFFIX,fq.wikia.com
 DOMAIN-SUFFIX,zh.ecdm.wikia.com
 DOMAIN-SUFFIX,zh.pttpedia.wikia.com
 DOMAIN-SUFFIX,zh.uncyclopedia.wikia.com
+DOMAIN-SUFFIX,wikibooks.org
+DOMAIN-SUFFIX,wikidata.org
 DOMAIN-SUFFIX,wikileaks.ch
 DOMAIN-SUFFIX,wikileaks.com
 DOMAIN-SUFFIX,wikileaks.de
@@ -5899,10 +5901,12 @@ DOMAIN-SUFFIX,wikimapia.org
 DOMAIN-SUFFIX,wikimedia.org
 DOMAIN-SUFFIX,zh.wikinews.org
 DOMAIN-SUFFIX,wikipedia.org
-DOMAIN-SUFFIX,ja.wikipedia.org
 DOMAIN-SUFFIX,zh.wikiquote.org
+DOMAIN-SUFFIX,wikiversity.org
+DOMAIN-SUFFIX,wikivoyage.org
 DOMAIN-SUFFIX,wikiwand.com
 DOMAIN-SUFFIX,wikiwiki.jp
+DOMAIN-SUFFIX,wiktionary.org
 DOMAIN-SUFFIX,wildammo.com
 DOMAIN-SUFFIX,williamhill.com
 DOMAIN-SUFFIX,casino.williamhill.com
@@ -5930,6 +5934,7 @@ DOMAIN-SUFFIX,witopia.net
 DOMAIN-SUFFIX,wizcrafts.net
 DOMAIN-SUFFIX,wjbk.org
 DOMAIN-SUFFIX,wmflabs.org
+DOMAIN-SUFFIX,wmfusercontent.org
 DOMAIN-SUFFIX,wn.com
 DOMAIN-SUFFIX,wnacg.com
 DOMAIN-SUFFIX,wnacg.org
