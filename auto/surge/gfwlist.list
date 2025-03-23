@@ -103,7 +103,6 @@ DOMAIN,faith100.org
 DOMAIN,falunau.org
 DOMAIN,uygur.fc2web.com
 DOMAIN,feitianacademy.org
-DOMAIN,ff.im
 DOMAIN,fhreports.net
 DOMAIN,feeds.fileforum.com
 DOMAIN,firearmsworld.net
@@ -1419,6 +1418,7 @@ DOMAIN-SUFFIX,cofacts.tw
 DOMAIN-SUFFIX,coin2co.in
 DOMAIN-SUFFIX,coinbase.com
 DOMAIN-SUFFIX,coinbene.com
+DOMAIN-SUFFIX,coincarp.com
 DOMAIN-SUFFIX,coinegg.com
 DOMAIN-SUFFIX,coinex.com
 DOMAIN-SUFFIX,coingecko.com
@@ -1434,6 +1434,7 @@ DOMAIN-SUFFIX,collateralmurder.org
 DOMAIN-SUFFIX,com.google
 DOMAIN-SUFFIX,myforum.com.uk
 DOMAIN-SUFFIX,comefromchina.com
+DOMAIN-SUFFIX,fangeming.comffvpn.com
 DOMAIN-SUFFIX,comic-mega.me
 DOMAIN-SUFFIX,images.comico.tw
 DOMAIN-SUFFIX,static.comico.tw
@@ -2035,8 +2036,6 @@ DOMAIN-SUFFIX,fastpic.ru
 DOMAIN-SUFFIX,fastssh.com
 DOMAIN-SUFFIX,faststone.org
 DOMAIN-SUFFIX,fatbtc.com
-DOMAIN-SUFFIX,en.favotter.net
-DOMAIN-SUFFIX,favstar.fm
 DOMAIN-SUFFIX,fawanghuihui.org
 DOMAIN-SUFFIX,faydao.com
 DOMAIN-SUFFIX,faz.net
@@ -2047,15 +2046,10 @@ DOMAIN-SUFFIX,fbaddins.com
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,fbsbx.com
 DOMAIN-SUFFIX,fbworkmail.com
-DOMAIN-SUFFIX,fc2.com
-DOMAIN-SUFFIX,fc2blog.net
-DOMAIN-SUFFIX,fc2china.com
 DOMAIN-SUFFIX,fc2cn.com
 DOMAIN-SUFFIX,fda.gov.tw
-DOMAIN-SUFFIX,video.fdbox.com
 DOMAIN-SUFFIX,fdc64.de
 DOMAIN-SUFFIX,fdc64.org
-DOMAIN-SUFFIX,fdc89.jp
 DOMAIN-SUFFIX,feedburner.com
 DOMAIN-SUFFIX,feeder.co
 DOMAIN-SUFFIX,feedx.net
@@ -2068,8 +2062,7 @@ DOMAIN-SUFFIX,feministteacher.com
 DOMAIN-SUFFIX,fengzhenghu.com
 DOMAIN-SUFFIX,fengzhenghu.net
 DOMAIN-SUFFIX,fevernet.com
-DOMAIN-SUFFIX,fffff.at
-DOMAIN-SUFFIX,fflick.com
+DOMAIN-SUFFIX,ff.im
 DOMAIN-SUFFIX,ffvpn.com
 DOMAIN-SUFFIX,fgmtv.net
 DOMAIN-SUFFIX,fgmtv.org
@@ -2330,6 +2323,7 @@ DOMAIN-SUFFIX,geekerhome.com
 DOMAIN-SUFFIX,geekheart.info
 DOMAIN-SUFFIX,gekikame.com
 DOMAIN-SUFFIX,gelbooru.com
+DOMAIN-SUFFIX,gemini.com
 DOMAIN-SUFFIX,generated.photos
 DOMAIN-SUFFIX,genius.com
 DOMAIN-SUFFIX,geocities.co.jp
@@ -4126,6 +4120,7 @@ DOMAIN-SUFFIX,showbiz.omy.sg
 DOMAIN-SUFFIX,on.cc
 DOMAIN-SUFFIX,on2.com
 DOMAIN-SUFFIX,onapp.com
+DOMAIN-SUFFIX,one.one.one.one
 DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,onedumb.com
 DOMAIN-SUFFIX,onejav.com
@@ -6110,7 +6105,6 @@ DOMAIN-SUFFIX,wiredpen.com
 DOMAIN-SUFFIX,wireguard.com
 DOMAIN-SUFFIX,wisdompubs.org
 DOMAIN-SUFFIX,wisevid.com
-DOMAIN-SUFFIX,fast.wistia.com
 DOMAIN-SUFFIX,withgoogle.com
 DOMAIN-SUFFIX,withyoutube.com
 DOMAIN-SUFFIX,witnessleeteaching.com
@@ -6485,6 +6479,8 @@ DOMAIN-SUFFIX,zyzc9.com
 DOMAIN-SUFFIX,zzcartoon.com
 DOMAIN-SUFFIX,zzcloud.me
 DOMAIN-SUFFIX,zzux.com
+IP-CIDR,1.0.0.1,no-resolve
+IP-CIDR,1.1.1.1,no-resolve
 IP-CIDR,14.102.250.18,no-resolve
 IP-CIDR,14.102.250.19,no-resolve
 IP-CIDR,50.7.31.230,no-resolve
