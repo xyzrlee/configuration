@@ -128,6 +128,7 @@ DOMAIN,cn.giganews.com
 DOMAIN,softwaredownload.gitbooks.io
 DOMAIN,www.gmiddle.com
 DOMAIN,www.gmiddle.net
+DOMAIN,gmp4.com
 DOMAIN,hk.gradconnection.com
 DOMAIN,gts-vpn.com
 DOMAIN,gu-chu-sum.org
@@ -246,6 +247,7 @@ DOMAIN,pimg.tw
 DOMAIN,pictures.playboy.com
 DOMAIN,pornhubdeutsch.net
 DOMAIN,pornsharing.com
+DOMAIN,qmp4.com
 DOMAIN,quran.com
 DOMAIN,radiko.jp
 DOMAIN,raindrop.io
@@ -370,6 +372,7 @@ DOMAIN-SUFFIX,100ke.org
 DOMAIN-SUFFIX,10beasts.net
 DOMAIN-SUFFIX,10conditionsoflove.com
 DOMAIN-SUFFIX,10musume.com
+DOMAIN-SUFFIX,i.111666.best
 DOMAIN-SUFFIX,123rf.com
 DOMAIN-SUFFIX,12bet.com
 DOMAIN-SUFFIX,12vpn.com
@@ -399,6 +402,7 @@ DOMAIN-SUFFIX,1bao.org
 DOMAIN-SUFFIX,1dumb.com
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,1eew.com
+DOMAIN-SUFFIX,1lib.sk
 DOMAIN-SUFFIX,1mobile.com
 DOMAIN-SUFFIX,1point3acres.com
 DOMAIN-SUFFIX,1pondo.tv
@@ -556,7 +560,6 @@ DOMAIN-SUFFIX,afreecatv.com
 DOMAIN-SUFFIX,agnesb.fr
 DOMAIN-SUFFIX,agoogleaday.com
 DOMAIN-SUFFIX,agro.hk
-DOMAIN-SUFFIX,ai.google
 DOMAIN-SUFFIX,ai-kan.net
 DOMAIN-SUFFIX,ai-wen.net
 DOMAIN-SUFFIX,aiosearch.com
@@ -1683,6 +1686,7 @@ DOMAIN-SUFFIX,dnssec.net
 DOMAIN-SUFFIX,dnvod.tv
 DOMAIN-SUFFIX,doc.new
 DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,docs.new
 DOMAIN-SUFFIX,doctorvoice.org
 DOMAIN-SUFFIX,documentingreality.com
@@ -4132,6 +4136,7 @@ DOMAIN-SUFFIX,showbiz.omy.sg
 DOMAIN-SUFFIX,on.cc
 DOMAIN-SUFFIX,on2.com
 DOMAIN-SUFFIX,onapp.com
+DOMAIN-SUFFIX,one.one.one.one
 DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,onedumb.com
 DOMAIN-SUFFIX,onejav.com
@@ -4339,6 +4344,7 @@ DOMAIN-SUFFIX,pki.goog
 DOMAIN-SUFFIX,pkqjiasu.com
 DOMAIN-SUFFIX,pkuanvil.com
 DOMAIN-SUFFIX,placemix.com
+DOMAIN-SUFFIX,play.google
 DOMAIN-SUFFIX,play-asia.com
 DOMAIN-SUFFIX,playboy.com
 DOMAIN-SUFFIX,playboyplus.com
@@ -4480,6 +4486,7 @@ DOMAIN-SUFFIX,punyu.com
 DOMAIN-SUFFIX,pure18.com
 DOMAIN-SUFFIX,api.pureapk.com
 DOMAIN-SUFFIX,pureconcepts.net
+DOMAIN-SUFFIX,puredns.org
 DOMAIN-SUFFIX,pureinsight.org
 DOMAIN-SUFFIX,purepdf.com
 DOMAIN-SUFFIX,purevpn.com
@@ -4679,6 +4686,7 @@ DOMAIN-SUFFIX,rtycminnesota.org
 DOMAIN-SUFFIX,ruanyifeng.com
 DOMAIN-SUFFIX,rukor.org
 DOMAIN-SUFFIX,rule34.xxx
+DOMAIN-SUFFIX,rule34video.com
 DOMAIN-SUFFIX,rumble.com
 DOMAIN-SUFFIX,runbtx.com
 DOMAIN-SUFFIX,rushbee.com
@@ -5480,6 +5488,7 @@ DOMAIN-SUFFIX,tnaflix.com
 DOMAIN-SUFFIX,tngrnow.com
 DOMAIN-SUFFIX,tngrnow.net
 DOMAIN-SUFFIX,tnp.org
+DOMAIN-SUFFIX,rtm.tnt-ea.com
 DOMAIN-SUFFIX,to-porno.com
 DOMAIN-SUFFIX,togetter.com
 DOMAIN-SUFFIX,toh.info
@@ -6416,8 +6425,13 @@ DOMAIN-SUFFIX,yyii.org
 DOMAIN-SUFFIX,yyjlymb.xyz
 DOMAIN-SUFFIX,yysub.net
 DOMAIN-SUFFIX,yzzk.com
+DOMAIN-SUFFIX,z-lib.fm
+DOMAIN-SUFFIX,z-lib.fo
+DOMAIN-SUFFIX,z-lib.gd
+DOMAIN-SUFFIX,z-lib.gl
 DOMAIN-SUFFIX,z-lib.io
 DOMAIN-SUFFIX,z-lib.org
+DOMAIN-SUFFIX,z-library.sk
 DOMAIN-SUFFIX,zacebook.com
 DOMAIN-SUFFIX,zalmos.com
 DOMAIN-SUFFIX,zamimg.com
