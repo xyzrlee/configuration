@@ -846,6 +846,7 @@ DOMAIN-SUFFIX,bitchute.com
 DOMAIN-SUFFIX,bitcointalk.org
 DOMAIN-SUFFIX,bitcoinworld.com
 DOMAIN-SUFFIX,bitfinex.com
+DOMAIN-SUFFIX,bitget.com
 DOMAIN-SUFFIX,bithumb.com
 DOMAIN-SUFFIX,bitmex.com
 DOMAIN-SUFFIX,bitshare.com
@@ -1247,6 +1248,7 @@ DOMAIN-SUFFIX,clinica-tibet.ru
 DOMAIN-SUFFIX,clipconverter.cc
 DOMAIN-SUFFIX,clipfish.de
 DOMAIN-SUFFIX,app.cloudcone.com
+DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,cloudflare-ipfs.com
 DOMAIN-SUFFIX,cloudfunctions.net
 DOMAIN-SUFFIX,club1069.com
@@ -3584,7 +3586,6 @@ DOMAIN-SUFFIX,nnews.eu
 DOMAIN-SUFFIX,no-ip.org
 DOMAIN-SUFFIX,nobel.se
 DOMAIN-SUFFIX,nobelprize.org
-DOMAIN-SUFFIX,www.nodeloc.com
 DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,nokogiri.org
 DOMAIN-SUFFIX,nokola.com
@@ -5188,6 +5189,7 @@ DOMAIN-SUFFIX,unseen.is
 DOMAIN-SUFFIX,unstable.icu
 DOMAIN-SUFFIX,unwire.hk
 DOMAIN-SUFFIX,uocn.org
+DOMAIN-SUFFIX,upbit.com
 DOMAIN-SUFFIX,tor.updatestar.com
 DOMAIN-SUFFIX,upghsbc.com
 DOMAIN-SUFFIX,upholdjustice.org
