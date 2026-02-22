@@ -1159,6 +1159,7 @@ DOMAIN-SUFFIX,edubridge.com
 DOMAIN-SUFFIX,edx-cdn.org
 DOMAIN-SUFFIX,eesti.ee
 DOMAIN-SUFFIX,eevpn.com
+DOMAIN-SUFFIX,tor.eff.org
 DOMAIN-SUFFIX,efksoft.com
 DOMAIN-SUFFIX,eic-av.com
 DOMAIN-SUFFIX,eireinikotaerukai.com
@@ -3623,6 +3624,7 @@ DOMAIN-SUFFIX,underwoodammo.com
 DOMAIN-SUFFIX,unholyknight.com
 DOMAIN-SUFFIX,cldr.unicode.org
 DOMAIN-SUFFIX,unirule.cloud
+DOMAIN-SUFFIX,uniswap.org
 DOMAIN-SUFFIX,unknownspace.org
 DOMAIN-SUFFIX,demo.unlock-music.dev
 DOMAIN-SUFFIX,unmineable.com
