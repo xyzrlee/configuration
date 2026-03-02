@@ -130,7 +130,6 @@ DOMAIN,www.hustlercash.com
 DOMAIN,www.idlcoyote.com
 DOMAIN,ift.tt
 DOMAIN,imb.org
-DOMAIN,www.imdb.com
 DOMAIN,insecam.org
 DOMAIN,iportal.me
 DOMAIN,islam.org.hk
@@ -893,6 +892,7 @@ DOMAIN-SUFFIX,ck101.com
 DOMAIN-SUFFIX,www.clashverge.dev
 DOMAIN-SUFFIX,classicalguitarblog.net
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,clearsurance.com
 DOMAIN-SUFFIX,clementine-player.org
 DOMAIN-SUFFIX,clinica-tibet.ru
@@ -2299,6 +2299,7 @@ DOMAIN-SUFFIX,mangafox.com
 DOMAIN-SUFFIX,mangafox.me
 DOMAIN-SUFFIX,mangmang.run
 DOMAIN-SUFFIX,manta.com
+DOMAIN-SUFFIX,manus.im
 DOMAIN-SUFFIX,manyvoices.news
 DOMAIN-SUFFIX,marc.info
 DOMAIN-SUFFIX,martau.com
