@@ -388,6 +388,7 @@ DOMAIN-SUFFIX,agoogleaday.com
 DOMAIN-SUFFIX,agro.hk
 DOMAIN-SUFFIX,ai.dev
 DOMAIN-SUFFIX,ai.studio
+DOMAIN-SUFFIX,aihub.top
 DOMAIN-SUFFIX,aiosearch.com
 DOMAIN-SUFFIX,aiph.net
 DOMAIN-SUFFIX,airconsole.com
@@ -489,6 +490,8 @@ DOMAIN-SUFFIX,appsocks.net
 DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,appsto.re
 DOMAIN-SUFFIX,aptoide.com
+DOMAIN-SUFFIX,basemaps.arcgis.com
+DOMAIN-SUFFIX,experience.arcgis.com
 DOMAIN-SUFFIX,archive.fo
 DOMAIN-SUFFIX,archive.is
 DOMAIN-SUFFIX,archive.li
@@ -3110,6 +3113,7 @@ DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,redditspace.com
 DOMAIN-SUFFIX,redditstatic.com
 DOMAIN-SUFFIX,redhotlabs.com
+DOMAIN-SUFFIX,esim.redteago.com
 DOMAIN-SUFFIX,referer.us
 DOMAIN-SUFFIX,reflectivecode.com
 DOMAIN-SUFFIX,blog.reimu.net
