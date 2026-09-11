@@ -116,7 +116,6 @@ DOMAIN,hec.su
 DOMAIN,hegre-art.com
 DOMAIN,hitomi.la
 DOMAIN,hk-pub.com
-DOMAIN,m.hkgalden.com
 DOMAIN,homeservershow.com
 DOMAIN,old.honeynet.org
 DOMAIN,hornytrip.com
@@ -1467,7 +1466,6 @@ DOMAIN-SUFFIX,futubull.cn
 DOMAIN-SUFFIX,futuchain.com
 DOMAIN-SUFFIX,futuesop.com
 DOMAIN-SUFFIX,futufin.com
-DOMAIN-SUFFIX,qtcardfthk.futufin.com
 DOMAIN-SUFFIX,futuhk.com
 DOMAIN-SUFFIX,futuhk2.com
 DOMAIN-SUFFIX,futuhkapp.com
@@ -1476,16 +1474,8 @@ DOMAIN-SUFFIX,futuholdings.com
 DOMAIN-SUFFIX,futuinc.com
 DOMAIN-SUFFIX,futuniuniu.com
 DOMAIN-SUFFIX,futunn.com
-DOMAIN-SUFFIX,api.futunn.com
-DOMAIN-SUFFIX,api5.futunn.com
-DOMAIN-SUFFIX,download.futunn.com
-DOMAIN-SUFFIX,openapi.futunn.com
-DOMAIN-SUFFIX,qtcard.futunn.com
-DOMAIN-SUFFIX,support.futunn.com
-DOMAIN-SUFFIX,trade.futunn.com
 DOMAIN-SUFFIX,futuremessage.org
 DOMAIN-SUFFIX,futustatic.com
-DOMAIN-SUFFIX,cdn.futustatic.com
 DOMAIN-SUFFIX,fututrade.com
 DOMAIN-SUFFIX,fututrustee.com
 DOMAIN-SUFFIX,fw.cm
@@ -2303,8 +2293,6 @@ DOMAIN-SUFFIX,lausan.hk
 DOMAIN-SUFFIX,lbank.info
 DOMAIN-SUFFIX,lbctrl.com
 DOMAIN-SUFFIX,lbkrs.com
-DOMAIN-SUFFIX,api.lbkrs.com
-DOMAIN-SUFFIX,api-gl.lbkrs.com
 DOMAIN-SUFFIX,ldplayer.net
 DOMAIN-SUFFIX,ldplayer.tw
 DOMAIN-SUFFIX,le-vpn.com
@@ -2380,9 +2368,6 @@ DOMAIN-SUFFIX,openapi.longbridge.cn
 DOMAIN-SUFFIX,openapi-quote.longbridge.cn
 DOMAIN-SUFFIX,openapi-trade.longbridge.cn
 DOMAIN-SUFFIX,longbridge.com
-DOMAIN-SUFFIX,openapi.longbridge.com
-DOMAIN-SUFFIX,openapi-quote.longbridge.com
-DOMAIN-SUFFIX,openapi-trade.longbridge.com
 DOMAIN-SUFFIX,longbridge.global
 DOMAIN-SUFFIX,quote.longbridge.global
 DOMAIN-SUFFIX,longbridge.hk
@@ -2391,7 +2376,6 @@ DOMAIN-SUFFIX,longbridgeapp.com
 DOMAIN-SUFFIX,longbridgehk.com
 DOMAIN-SUFFIX,longportapp.cn
 DOMAIN-SUFFIX,longportapp.com
-DOMAIN-SUFFIX,trade.longportapp.com
 DOMAIN-SUFFIX,longtermly.net
 DOMAIN-SUFFIX,longtoes.com
 DOMAIN-SUFFIX,lookpic.com
@@ -3070,6 +3054,7 @@ DOMAIN-SUFFIX,qoos.com
 DOMAIN-SUFFIX,qq.co.za
 DOMAIN-SUFFIX,qstatus.com
 DOMAIN-SUFFIX,qtrac.eu
+DOMAIN-SUFFIX,quakemachinex.com
 DOMAIN-SUFFIX,questvisual.com
 DOMAIN-SUFFIX,quitccp.org
 DOMAIN-SUFFIX,quiz.directory
@@ -3835,7 +3820,6 @@ DOMAIN-SUFFIX,upmedia.mg
 DOMAIN-SUFFIX,uproxy.org
 DOMAIN-SUFFIX,upsangel.com
 DOMAIN-SUFFIX,uptodown.com
-DOMAIN-SUFFIX,cn.uptodown.com
 DOMAIN-SUFFIX,uraban.me
 DOMAIN-SUFFIX,urbandictionary.com
 DOMAIN-SUFFIX,urbansurvival.com
