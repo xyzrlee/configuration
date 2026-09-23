@@ -15,5 +15,6 @@ chmod +x *.sh
 ./chinadns-chnroute.sh
 ./dnsmasq-china-domains.sh
 ./telegram-cidr.sh
+./gfwlist2squid.sh
 
 popd
