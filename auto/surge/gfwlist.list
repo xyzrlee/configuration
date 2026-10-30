@@ -542,6 +542,7 @@ DOMAIN-SUFFIX,athenaeizou.com
 DOMAIN-SUFFIX,atlanta168.com
 DOMAIN-SUFFIX,atnext.com
 DOMAIN-SUFFIX,audacy.com
+DOMAIN-SUFFIX,anthropic.auth0.com
 DOMAIN-SUFFIX,autodraw.com
 DOMAIN-SUFFIX,av.movie
 DOMAIN-SUFFIX,av01.tv
@@ -728,6 +729,7 @@ DOMAIN-SUFFIX,broadpressinc.com
 DOMAIN-SUFFIX,brookings.edu
 DOMAIN-SUFFIX,brutaltgp.com
 DOMAIN-SUFFIX,bsky.app
+DOMAIN-SUFFIX,bsky.chat
 DOMAIN-SUFFIX,bsky.network
 DOMAIN-SUFFIX,bsky.social
 DOMAIN-SUFFIX,bt4g.org
@@ -931,6 +933,9 @@ DOMAIN-SUFFIX,clashyun.com
 DOMAIN-SUFFIX,classicalguitarblog.net
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claude.app
+DOMAIN-SUFFIX,claudemcpcontent.com
+DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,clearsurance.com
 DOMAIN-SUFFIX,clementine-player.org
 DOMAIN-SUFFIX,clinica-tibet.ru
