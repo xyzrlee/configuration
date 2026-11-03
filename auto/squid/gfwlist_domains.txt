@@ -377,6 +377,7 @@
 .bignews.org
 .bigone.com
 .bild.de
+.bilibili.tv
 .bilinovel.com
 .binance.com
 .binance.org
